@@ -13,6 +13,8 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.sql import collate
 from sqlalchemy import desc, asc
 
+from sqlalchemy.ext.automap import automap_base
+
 
 
 engine = create_engine('sqlite:///db.sqlite', echo=True)
@@ -78,7 +80,87 @@ class AuthorisationLevel(Base):
                 )
 
 
+class BankTransferFile(Base):
+    __tablename__ = 'bank_transfer_file'
 
+    
+    bnk_trn_ref  = Column(UnicodeText, primary_key=True)
+    exec_dt      = Column(UnicodeText)
+    debit_account_no = Column(UnicodeText)
+    credit_account_no = Column(UnicodeText)
+    amount = Column(UnicodeText)
+    trn_desc = Column(UnicodeText)
+
+    def __repr__(self):
+        return "BankTransferFile %s %s %s" % (
+                self.bnk_trn_ref,
+                self.exec_dt,
+                self.debit_account,
+                self.credit_account_no,
+                self.amount,
+                self.trn_desc
+                )
+
+
+class Calendar(Base):
+    __tablename__ = 'calendar'
+
+
+    CalendarDate      = Column(UnicodeText, primary_key=True)
+    Wday              = Column(UnicodeText)
+    MonthLastBusinessDay      = Column(UnicodeText)
+    MonthFirstBusinessday      = Column(UnicodeText) 
+    WeekEndDay      = Column(UnicodeText) 
+    PublicHolidays      = Column(UnicodeText) 
+    PaymentDate      = Column(UnicodeText)
+
+    def __repr__(self):
+        return "Calendar %s" % (
+                self.CalendarDate, self.Wday
+               )
+
+class Departement(Base):
+    __tablename__ = 'departement'
+
+
+    departement_id   = Column(UnicodeText, primary_key=True)
+    departement_desc = Column(UnicodeText)
+
+    def __repr__(self):
+        return "Departement %s %s" % (
+                self.departement_id, self.departement_desc
+               )
+
+
+class Employee(Base):
+    __tablename__ = 'employee'
+
+
+    employee_id   = Column(UnicodeText, primary_key=True)
+    birth_date    = Column(UnicodeText)
+    first_name    = Column(UnicodeText)
+    last_name     = Column(UnicodeText)
+    gender        = Column(UnicodeText)
+    hire_date     = Column(UnicodeText)
+    leaving_date  = Column(UnicodeText)
+
+    def __repr__(self):
+        return "Emplyee %s %s" % (
+                self.employee_id, self.last_name, self.first_name
+               )
+
+
+class EmployeeDepartement(Base):
+    __tablename__ = 'employee_departement'
+
+
+    employee_id    = Column(UnicodeText, primary_key=True)
+    departement_id = Column(UnicodeText)
+
+    def __repr__(self):
+        return "EmplyeeDepartement %s %s" % (
+                self.employee_id, self.departement_id
+               )
 
 
 
@@ -118,6 +200,23 @@ class InvoiceTransactions(Base):
 
 
 
+class SystemUsers(Base):
+    __tablename__ = 'system_users'
+
+
+    user_id = Column(UnicodeText, primary_key=True)
+    password_hash = Column(UnicodeText)
+    email = Column(UnicodeText)
+    employee_id = Column(UnicodeText)
+    created_on = Column(UnicodeText)
+
+
+class UserGroups(Base):
+    __tablename__ = 'user_groups'
+
+
+    user_id = Column(UnicodeText, primary_key=True)
+    group_id = Column(UnicodeText)
 
 
 
