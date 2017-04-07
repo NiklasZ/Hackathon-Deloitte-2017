@@ -75,7 +75,7 @@ class AuthorisationLevel(Base):
     approval_max_amount = Column(UnicodeText)
 
     def __repr__(self):
-        return "AccountCompany %s %s %s" % (
+        return "AuthorisationLevel %s %s %s" % (
                 self.group_id, self.group_desc, self.approval_max_amount
                 )
 
@@ -145,7 +145,7 @@ class Employee(Base):
     leaving_date  = Column(UnicodeText)
 
     def __repr__(self):
-        return "Emplyee %s %s" % (
+        return "Emplyee %s %s %s" % (
                 self.employee_id, self.last_name, self.first_name
                )
 
@@ -211,9 +211,10 @@ class SystemUsers(Base):
     created_on = Column(UnicodeText)
 
 
+
+
 class UserGroups(Base):
     __tablename__ = 'user_groups'
-
 
     user_id = Column(UnicodeText, primary_key=True)
     group_id = Column(UnicodeText)
