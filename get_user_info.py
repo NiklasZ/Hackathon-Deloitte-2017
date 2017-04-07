@@ -22,20 +22,22 @@ employees = {}
 
 q1 = S.query(DB.SystemUsers)
 
-
 eid2uid = {}
 uid2eid = {}
 
-for u in q1:
-   
+for u in q1:   
     eid = u.employee_id
     uid = u.user_id
+    if eid in eid2uid or uid in uid2eid:
+        print eid, uid
+        #raise KeyError("This usesr %s/%s smells fishy!!" % (eid,uid))
     eid2uid[eid] = uid
     uid2eid[uid] = eid
     if eid not in employees:
         employees[eid] = {}
     employees[eid]['SystemUsers'] = u
-    
+
+
 q2 = S.query(DB.Employee)
 
 for e in q2:
@@ -44,14 +46,14 @@ for e in q2:
         employees[eid] = {}
     employees[eid]['Employee'] = e
 
+
 q4 = S.query(DB.AuthorizationLevel)
 gid2al = {}
 for al in q4:
     gid = al.group_id
     gid2al[gid] = al
     
-    
-    
+        
 q3 = S.query(DB.UserGroups)
 for ug in q3:
     uid = ug.user_id
@@ -67,6 +69,21 @@ for ug in q3:
 
 
 # use it like this
-eid = uid2eid['u8204']
-e = employees[eid]
-print e
+#eid = uid2eid['u8204']
+#eid = uid2eid['u3977']
+#e = employees[eid]
+#print e
+
+def get_userinfo(uid):
+    """give me a user_id in the form of 'uXXXX'"""
+    
+    eid = uid2eid[uid]
+    e = employees[eid]
+    print e
+
+    
+    
+    
+    
+    
+    
