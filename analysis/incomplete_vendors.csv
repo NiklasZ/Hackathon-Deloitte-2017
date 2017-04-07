@@ -1,11 +1,12 @@
-vendor_address_id,vendor_id,vendor_name,address_no,effective_dt,address_01,city,postal,country,
-VDA-00547,VD-0483,Lewis, Shelly,1,19/07/2011 00:00,Stauffacherstrasse 60,EMPTY,8004,Switzerland
-VDA-00323,VD-0211,Guthrie, Jonah,1,19/05/2005 00:00,Kindhausenstrasse 7,EMPTY,8602,Switzerland
-VDA-00398,VD-0305,Mcclain, Elmo,1,18/07/2012 00:00,R??ffelstrasse 32,EMPTY,8045,Switzerland
-VDA-00346,VD-0237,Webb, Sierra,1,10/07/2015 00:00,Lindauerstrasse 27,Tagelswangen,EMPTY,EMPTY
-VDA-00597,VD-0546,Bradford, Ulric,1,01/09/2014 00:00,Zugerstrasse 23,W??denswil,EMPTY,EMPTY
-VDA-00206,VD-0065,Morse, Carolyn,1,09/04/2015 00:00,bas du Village 13,Les Bois,EMPTY,EMPTY
-VDA-00773,VD-0571,Mcfadden, Stewart,2,02/11/2011 00:00,Im Baumgarten 35,EMPTY,8332,Switzerland
-VDA-00772,VD-0587,Nunez, Ivory,1,05/01/2012 00:00,Bahnhofstrasse 27,Dubendorf,EMPTY,EMPTY
-VDA-00449,VD-0362,Salas, Rigel,1,02/08/2011 00:00,Rue de l'Eglise 7,Engollon,EMPTY,EMPTY
-VDA-00109,VD-0152,Tuliptime Tunefest,EMPTY,2,06/08/2008 00:00,Bahnhofstrasse 23,EMPTY,2540,Switzerland
+
+﻿vendor_address_id,vendor_id,vendor_name,address_no,effective_dt,address_01,city,postal,country
+VDA-00547,VD-0483,Lewis, Shelly,1,2011-07-19 00:00:00,Stauffacherstrasse 60,EMPTY,8004,Switzerland
+VDA-00323,VD-0211,Guthrie, Jonah,1,2005-05-19 00:00:00,Kindhausenstrasse 7,EMPTY,8602,Switzerland
+VDA-00398,VD-0305,Mcclain, Elmo,1,2012-07-18 00:00:00,R??ffelstrasse 32,EMPTY,8045,Switzerland
+VDA-00346,VD-0237,Webb, Sierra,1,2015-07-10 00:00:00,Lindauerstrasse 27,Tagelswangen,EMPTY,EMPTY
+VDA-00597,VD-0546,Bradford, Ulric,1,2014-09-01 00:00:00,Zugerstrasse 23,W??denswil,EMPTY,EMPTY
+VDA-00206,VD-0065,Morse, Carolyn,1,2015-04-09 00:00:00,bas du Village 13,Les Bois,EMPTY,EMPTY
+VDA-00773,VD-0571,Mcfadden, Stewart,2,2011-11-02 00:00:00,Im Baumgarten 35,EMPTY,8332,Switzerland
+VDA-00772,VD-0587,Nunez, Ivory,1,2012-01-05 00:00:00,Bahnhofstrasse 27,Dubendorf,EMPTY,EMPTY
+VDA-00449,VD-0362,Salas, Rigel,1,2011-08-02 00:00:00,Rue de l'Eglise 7,Engollon,EMPTY,EMPTY
+VDA-00109,VD-0152,Tuliptime Tunefest,2,2008-08-06 00:00:00,Bahnhofstrasse 23,EMPTY,2540,Switzerland

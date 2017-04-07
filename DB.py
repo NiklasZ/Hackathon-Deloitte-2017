@@ -12,6 +12,9 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.sql import collate
 from sqlalchemy import desc, asc
+from sqlalchemy import func
+from sqlalchemy import ForeignKey
+
 
 from sqlalchemy.ext.automap import automap_base
 
@@ -211,16 +214,51 @@ class SystemUsers(Base):
     created_on = Column(UnicodeText)
 
 
+class Transactions(Base):
+    __tablename__ = 'transactions'
 
 
-class UserGroups(Base):
-    __tablename__ = 'user_groups'
+    transaction_id = Column(UnicodeText, primary_key=True)
+    transaction_ref = Column(UnicodeText)
+    transaction_dt = Column(UnicodeText)
+    amount = Column(UnicodeText)
+    debit_acct = Column(UnicodeText)
+    credit_acct = Column(UnicodeText)
+    status = Column(UnicodeText)
+    narrative = Column(UnicodeText)
+    approval_dt = Column(UnicodeText)
+    approved_by_user_id = Column(UnicodeText)
 
-    user_id = Column(UnicodeText, primary_key=True)
-    group_id = Column(UnicodeText)
 
+class Vendor(Base):
+    __tablename__ = 'vendor'
 
+    vendor_id = Column(UnicodeText, primary_key=True)
+    vendor_name = Column(UnicodeText)
+    vendor_status = Column(UnicodeText)
+    vendor_persistence = Column(UnicodeText)
+    vendor_type = Column(UnicodeText)
+    created_on = Column(UnicodeText)
+    created_by = Column(UnicodeText)
+    status_last_updated_on = Column(UnicodeText)
 
+    def __repr__(self):
+    return "InvoiceTransactions %s %s" % (
+            self.invoice_id, self.transaction_id
+            )
+
+class VendorAddress(Base):
+    __tablename__ = 'vendor_address'
+
+    vendor_address = Column(UnicodeText, primary_key=True)
+    vendor_id = Column(UnicodeText, ForeignKey("vendor.vendor_id"))
+    vendor_name = Column(UnicodeText)
+    address_no = Column(UnicodeText)
+    effective_dt = Column(UnicodeText)
+    address_01 = Column(UnicodeText)
+    city = Column(UnicodeText)
+    postal = Column(UnicodeText)
+    country = Column(UnicodeText)
 
 
 Base.metadata.create_all()
