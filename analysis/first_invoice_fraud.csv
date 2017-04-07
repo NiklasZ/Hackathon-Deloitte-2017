@@ -1,0 +1,2 @@
+invoice_id	po_id	vendor_id	invoice_dt	invoice_image_path	payment_due_by_dt	received_dt	received_by_user_id	total
+INV-253601	PUO-156701	VD-0588	12/01/2015 00:00	not available	10/03/2015 00:00	14/01/2015 00:00	u8284	100
