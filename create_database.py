@@ -28,7 +28,7 @@ def load_obj(name):
         return pickle.load(f)
 
 
-engine = create_engine('sqlite:///registration.sqlite3', echo=True)
+engine = create_engine('sqlite:///db.sqlite3', echo=True)
 Base = declarative_base(bind=engine)
 
 
