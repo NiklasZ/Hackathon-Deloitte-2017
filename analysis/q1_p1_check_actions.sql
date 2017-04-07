@@ -1,0 +1,1 @@
+SELECT DISTINCT action FROM access_log;
