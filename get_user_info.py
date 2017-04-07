@@ -50,6 +50,8 @@ for al in q4:
     gid = al.group_id
     gid2al[gid] = al
     
+    
+    
 q3 = S.query(DB.UserGroups)
 for ug in q3:
     uid = ug.user_id
