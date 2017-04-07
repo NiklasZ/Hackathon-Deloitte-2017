@@ -1,0 +1,774 @@
+﻿vendor_address_id|vendor_id|vendor_name|address_no|effective_dt|address_01|city|postal|country
+VDA-00768|VD-0583|Romero, Lillith|1|2005-03-07 00:00:00|Industriestrasse 1|Volketswil|8604|Switzerland
+VDA-00388|VD-0292|Garza, Silas|1|2013-12-13 00:00:00|place du Midi 25|Sion|1950|Switzerland
+VDA-00321|VD-0209|Owens, Nero|1|2011-07-15 00:00:00|Kasernenstrasse 4|B??lach|8180|Switzerland
+VDA-00303|VD-0188|Delacruz, Yael|1|2007-06-07 00:00:00|Hofackerstrasse 13|Z??rich|8032|Switzerland
+VDA-00498|VD-0423|Nichols, Tobias|1|2007-04-10 00:00:00|rue Fritz-Courvoisier 40|La Chaux-de-Fonds|2300|Switzerland
+VDA-00741|VD-0520|Cote, Benedict|2|2013-02-24 00:00:00|Auenstrasse 10|D??bendorf|8600|Switzerland
+VDA-00161|VD-0006|Pena, Drew|1|2013-02-06 00:00:00|Alte Neeracherstrasse 4|Neerach|8173|Switzerland
+VDA-00465|VD-0384|Barnett, Lael|1|2011-03-21 00:00:00|rue des Poteaux 4|Neuch??tel|2000|Switzerland
+VDA-00691|VD-0095|Webster, Dawn|2|2016-09-02 00:00:00|Neuweg 4|D??bendorf|8600|Switzerland
+VDA-00765|VD-0580|Walker, Claudia|1|2012-06-11 00:00:00|Bahnstrasse 16|Schwerzenbach|8603|Switzerland
+VDA-00174|VD-0021|Anderson, Deacon|1|2007-11-12 00:00:00|avenue Centrale 111|Villars-sur-Ollon|1884|Switzerland
+VDA-00361|VD-0258|Terry, Lance|1|2010-12-30 00:00:00|M??nchaltorferstrasse 8|Egg b. Z??rich|8132|Switzerland
+VDA-00269|VD-0144|Hansen, Sybill|1|2015-09-03 00:00:00|Froschaugasse 7|Z??rich|8001|Switzerland
+VDA-00358|VD-0253|Sweeney, Coby|1|2013-04-12 00:00:00|M??rtplatz 15|Effretikon|8307|Switzerland
+VDA-00158|VD-0003|Higgins, Orli|1|2009-09-28 00:00:00|Alte D??bendorferstrasse 17|Dietlikon|8305|Switzerland
+VDA-00566|VD-0505|Raymond, Vance|1|2013-12-12 00:00:00|Usterstrasse 95|Wetzikon|8620|Switzerland
+VDA-00227|VD-0093|Lott, Dale|1|2016-03-07 00:00:00|B??elstrasse 15|Affoltern am Albis|8910|Switzerland
+VDA-00776|VD-0574|Tucker, Amos|2|2013-07-20 00:00:00|Schaffhauserstrasse 134|Kloten|8302|Switzerland
+VDA-00582|VD-0525|Hoffman, Orla|1|2009-03-16 00:00:00|Wiesenbachstrasse 7|Abtwil|9030|Switzerland
+VDA-00139|VD-0410|Progressive Time|1|2011-01-24 00:00:00|rue de la Mor??che 6|Nyon|1260|Switzerland
+VDA-00149|VD-0067|Time  Hands|1|2011-10-24 00:00:00|Kornhausplatz 14|Bern|3011|Switzerland
+VDA-00338|VD-0226|Anthony, Davis|1|2011-12-20 00:00:00|Landstrasse 37|Andelfingen|8450|Switzerland
+VDA-00212|VD-0073|Tucker, Carly|1|2013-08-07 00:00:00|Bimenz??ltenstrasse 34|Kloten|8302|Switzerland
+VDA-00428|VD-0338|Harper, Haviva|1|2011-04-04 00:00:00|rue Centrale 7|Chalais|3966|Switzerland
+VDA-00523|VD-0454|Frederick, Wallace|1|2015-04-17 00:00:00|Seefeldstrasse 224|Z??rich|8008|Switzerland
+VDA-00557|VD-0493|Roth, Kaseem|1|2011-06-29 00:00:00|Theaterstrasse 8|Z??rich|8001|Switzerland
+VDA-00519|VD-0448|Schroeder, Jordan|1|2012-08-13 00:00:00|Schwamendingenstrasse 10|Z??rich|8050|Switzerland
+VDA-00487|VD-0411|Franco, Gillian|1|2013-07-16 00:00:00|rue du Seyon 10|Neuch??tel|2000|Switzerland
+VDA-00769|VD-0584|Ortega, Ivy|1|2007-08-31 00:00:00|Usterstrasse 51|Volketswil|8604|Switzerland
+VDA-00500|VD-0425|Madden, Dale|1|2011-10-19 00:00:00|rue Louis Antille 11|Crans-Montana|3963|Switzerland
+VDA-00424|VD-0334|White, Laurel|1|2008-04-29 00:00:00|Ruchstuckstrasse 14|Br??ttisellen|8306|Switzerland
+VDA-00698|VD-0109|Moody, Amos|2|2009-05-14 00:00:00|Winterthurerstrasse 32|Gutenswil|8605|Switzerland
+VDA-00356|VD-0249|Woodard, Madeline|1|2011-02-17 00:00:00|Marktgasse 57|Winterthur|8400|Switzerland
+VDA-00245|VD-0115|Fisher, Len|1|2012-08-15 00:00:00|Dorfstrasse 24|Grafstal|8310|Switzerland
+VDA-00335|VD-0223|Burt, Shelly|1|2015-08-06 00:00:00|Kugelgasse 4|M??nnedorf|8708|Switzerland
+VDA-00642|VD-0389|Gilliam, Chelsea|2|2014-08-10 00:00:00|Zelglistrasse 15|Br??tten|8311|Switzerland
+VDA-00302|VD-0187|Bernard, Justin|1|2015-06-01 00:00:00|Hochstrasse 11|Pf??ffikon|8330|Switzerland
+VDA-00056|VD-0026|Spare Time|2|2012-10-15 00:00:00|R??tistrasse 3|Wald ZH|8636|Switzerland
+VDA-00549|VD-0485|Whitaker, Kylynn|1|2007-02-19 00:00:00|Stiegweg 2|Bassersdorf|8303|Switzerland
+VDA-00138|VD-0057|Spacewax|3|2012-12-12 00:00:00|rue de la Gare 28|Morges|1110|Switzerland
+VDA-00159|VD-0004|Clayton, Clare|1|2012-03-22 00:00:00|Alte Landstrasse 24|Horgen|8810|Switzerland
+VDA-00764|VD-0579|Harper, Clementine|1|2012-11-26 00:00:00|Im Zentrum 18|Volketswil|8604|Switzerland
+VDA-00726|VD-0514|Cunningham, Melanie|2|2012-01-19 00:00:00|Dorfstrasse 6|Kyburg|8314|Switzerland
+VDA-00002|VD-0526|Zytrex|1|2011-11-14 00:00:00|rue du Rh??ne 8|Gen??ve|1204|Switzerland
+VDA-00484|VD-0405|Sherman, Jada|1|2014-09-15 00:00:00|rue du Prado 2|Crans-Montana|3963|Switzerland
+VDA-00365|VD-0263|Riggs, Athena|1|2013-07-10 00:00:00|M??llerstrasse 25|Z??rich|8004|Switzerland
+VDA-00281|VD-0157|Juarez, Sharon|1|2010-10-04 00:00:00|Gotthardstrasse 35|Thalwil|8800|Switzerland
+VDA-00254|VD-0127|Camacho, Molly|1|2014-06-30 00:00:00|Erlenstrasse 32|Br??gg|2555|Switzerland
+VDA-00336|VD-0224|Morrison, Brent|1|2012-06-21 00:00:00|Kyburgstrasse 17|Ottikon b. Kemptthal|8307|Switzerland
+VDA-00204|VD-0063|Mcleod, Sebastian|1|2016-05-12 00:00:00|Bahnhofstrasse 70|Z??rich|8001|Switzerland
+VDA-00550|VD-0486|Knight, Ignatius|1|2011-02-07 00:00:00|Strehlgasse 6|Wangen b. D??bendorf|8602|Switzerland
+VDA-00613|VD-0088|Bush, Olivia|2|2005-07-09 00:00:00|Klotenerstrasse 50|Bassersdorf|8303|Switzerland
+VDA-00288|VD-0166|Grant, Lucy|1|2016-09-16 00:00:00|Gwattstrasse 11|Pf??ffikon|8808|Switzerland
+VDA-00136|VD-0229|Technology Wizard|4|2016-09-25 00:00:00|St??dtchen 3|Uznach|8730|Switzerland
+VDA-00271|VD-0146|Foley, Sydney|1|2011-09-22 00:00:00|Gartenstrasse 17|Z??rich|8002|Switzerland
+VDA-00390|VD-0294|Alston, Jesse|1|2009-11-16 00:00:00|place Pestalozzi 7|Yverdon-les-Bains|1400|Switzerland
+VDA-00047|VD-0068|Furnitech|1|2007-10-25 00:00:00|Marktgasse 34|Altst??tten|9450|Switzerland
+VDA-00406|VD-0314|Suarez, Moses|1|2012-10-22 00:00:00|Rikonerstrasse 14|Effretikon|8307|Switzerland
+VDA-00104|VD-0432|Beyond Time|2|2007-07-27 00:00:00|Quai L??opold-Robert 2|Neuch??tel|2000|Switzerland
+VDA-00414|VD-0323|Morse, Serena|1|2011-05-19 00:00:00|route de Moncor 1|Villars-sur-Gl??ne|1752|Switzerland
+VDA-00415|VD-0324|Hardin, Cameron|1|2007-11-06 00:00:00|route de Rossemaison 83|Del??mont|2800|Switzerland
+VDA-00121|VD-0406|Pinpoint Matrix Systems|1|2011-10-10 00:00:00|Bahnhofstrasse 48|Z??rich|8001|Switzerland
+VDA-00507|VD-0433|Fernandez, Ali|1|2014-04-30 00:00:00|R??tistrasse 4|Wald|8636|Switzerland
+VDA-00360|VD-0256|Suarez, Vaughan|1|2007-01-11 00:00:00|Metzggasse 19|Winterthur|8400|Switzerland
+VDA-00248|VD-0118|Graves, Carl|1|2009-03-12 00:00:00|Dorfstrasse 4|Bassersdorf|8303|Switzerland
+VDA-00630|VD-0280|Clarke, Giselle|2|2014-03-23 00:00:00|Schmiedgasse 2|Volketswil|8604|Switzerland
+VDA-00066|VD-0452|Techmania|2|2013-12-23 00:00:00|Voa Selva|Valbella|7077|Switzerland
+VDA-00569|VD-0508|Sexton, Echo|1|2005-08-08 00:00:00|via Emilio Bossi 1|Chiasso|6830|Switzerland
+VDA-00640|VD-0453|Grant, Freya|2|2013-06-26 00:00:00|Bahnhofstrasse 64|D??bendorf|8600|Switzerland
+VDA-00031|VD-0330|Ancestor Dreamtime|1|2008-07-31 00:00:00|avenue de Vaudagne 31|Meyrin|1217|Switzerland
+VDA-00725|VD-0465|Atkins, Adrienne|2|2013-10-18 00:00:00|Stationsstrasse 13|N??nikon|8606|Switzerland
+VDA-00631|VD-0477|Bush, Brenden|2|2016-01-10 00:00:00|Kempttalstrasse 52|Illnau|8308|Switzerland
+VDA-00169|VD-0016|Cunningham, Vance|1|2006-05-08 00:00:00|Asylstrasse 48|M??nnedorf|8708|Switzerland
+VDA-00701|VD-0350|Franklin, Jameson|2|2008-07-05 00:00:00|Steinackerstrasse 41|Kloten|8302|Switzerland
+VDA-00222|VD-0086|Mcguire, Veronica|1|2014-07-28 00:00:00|Brandbachstrasse 5|Dietlikon|8305|Switzerland
+VDA-00450|VD-0363|Frost, Maxwell|1|2014-04-15 00:00:00|rue de l'Eglise 75|Romont|1680|Switzerland
+VDA-00173|VD-0020|Blair, Dahlia|1|2013-11-18 00:00:00|av. du G??n??ral-Guisan 15|Vevey|1800|Switzerland
+VDA-00653|VD-0230|Berger, Akeem|2|2013-09-16 00:00:00|Oberwilerstrasse 31|Br??tten|8311|Switzerland
+VDA-00679|VD-0034|Downs, Len|2|2016-10-02 00:00:00|Greifenseestrasse 2|Schwerzenbach|8603|Switzerland
+VDA-00055|VD-0359|Leica Geosystems|1|2015-01-30 00:00:00|Zwingliplatz 2|Z?rich|8001|Switzerland
+VDA-00273|VD-0148|Sweet, Kirby|1|2011-09-30 00:00:00|Geerenstrasse 2a|Dielsdorf|8157|Switzerland
+VDA-00482|VD-0402|Coleman, Evan|1|2006-02-20 00:00:00|rue du Pont-Mur?? 22|Fribourg|1700|Switzerland
+VDA-00664|VD-0466|Rasmussen, Robin|2|2011-04-23 00:00:00|Grindelstrasse 11|Bassersdorf|8303|Switzerland
+VDA-00165|VD-0010|Justice, Claire|1|2016-03-21 00:00:00|Alte Winterthurerstrasse 45|N??rensdorf|8309|Switzerland
+VDA-00113|VD-0299|InTime Learning|2|2007-05-15 00:00:00|Seeallee 8|Heiden|9410|Switzerland
+VDA-00170|VD-0017|Sykes, Edan|1|2007-07-09 00:00:00|Aufdorfstrasse 45|M??nnedorf|8708|Switzerland
+VDA-00241|VD-0110|Salas, Tate|1|2014-07-17 00:00:00|Delphinstrasse 11|Z??rich|8008|Switzerland
+VDA-00101|VD-0495|Shield Time|1|2011-02-21 00:00:00|Bahnhofplatz 4|Sarnen|6060|Switzerland
+VDA-00708|VD-0008|Workman, Cara|2|2007-11-10 00:00:00|M??rtplatz 5|Effretikon|8307|Switzerland
+VDA-00255|VD-0128|Jacobs, Gareth|1|2009-12-28 00:00:00|Erlenwiesenstrasse 2|Volketswil|8604|Switzerland
+VDA-00355|VD-0248|Sellers, Elvis|1|2013-09-05 00:00:00|Marktgasse 57|Winterthur|8400|Switzerland
+VDA-00218|VD-0082|Mayo, Maxwell|1|2013-03-14 00:00:00|boulevard de P??rolles 24|Fribourg|1700|Switzerland
+VDA-00499|VD-0424|Cooper, Bruno|1|2014-09-01 00:00:00|Rue Guillaume-Farel 22|Neuch??tel|2000|Switzerland
+VDA-00369|VD-0267|Thomas, Phelan|1|2012-08-15 00:00:00|Neue Winterthurerstrasse 22|Dietlikon|8305|Switzerland
+VDA-00305|VD-0190|Curry, Kameko|1|2016-08-17 00:00:00|Hofwiesenstrasse 350|Z??rich|8050|Switzerland
+VDA-00543|VD-0479|Spencer, Shea|1|2016-09-01 00:00:00|Stadthausstrasse 57|Winterthur|8400|Switzerland
+VDA-00552|VD-0488|Frank, Dexter|1|2012-12-04 00:00:00|Stuhlenstrasse 2B|Ebmatingen|8123|Switzerland
+VDA-00403|VD-0311|Christian, Velma|1|2015-01-27 00:00:00|Rebbergstrasse 12|Oberengstringen|8102|Switzerland
+VDA-00316|VD-0203|Giles, Alexander|1|2011-05-05 00:00:00|Josefstrasse 52|Z??rich|8005|Switzerland
+VDA-00400|VD-0307|Gibbs, Wyatt|1|2011-05-23 00:00:00|Rathausgasse 2|B??lach|8180|Switzerland
+VDA-00667|VD-0138|Dickson, Emerson|2|2014-03-25 00:00:00|Wallisellenstrasse 9|D??bendorf|8600|Switzerland
+VDA-00141|VD-0171|Catalyst Time|2|2011-08-13 00:00:00|chemin des Rochettes 2|Cortaillod|2016|Switzerland
+VDA-00202|VD-0061|Stewart, Odysseus|1|2013-04-23 00:00:00|Bahnhofstrasse 47|Dietlikon|8305|Switzerland
+VDA-00231|VD-0097|Odom, Chaney|1|2014-11-07 00:00:00|Centralweg 16|Affoltern am Albis|8910|Switzerland
+VDA-00135|VD-0304|Sigh Co.|2|2010-02-02 00:00:00|Bahnhofstrasse 34|Huttwil|4950|Switzerland
+VDA-00014|VD-0284|FreeTime|1|2009-01-19 00:00:00|Marktgasse 9|B??lach|8180|Switzerland
+VDA-00587|VD-0534|Hatfield, Stephanie|1|2005-03-31 00:00:00|Winterthurerstrasse 11|Sirnach|8370|Switzerland
+VDA-00472|VD-0391|Burt, Plato|1|2014-01-06 00:00:00|rue du G??n??ral-Dufour 95|Biel/Bienne|2502|Switzerland
+VDA-00508|VD-0435|Jensen, Rigel|1|2009-12-21 00:00:00|Samstagernstrasse 113|Wollerau|8832|Switzerland
+VDA-00727|VD-0416|Fischer, Sarah|2|2010-01-27 00:00:00|Alte Winterthurerstrasse 31|Wallisellen|8304|Switzerland
+VDA-00115|VD-0261|Northwest Time|1|2011-07-19 00:00:00|avenue L??opold-Robert 50|La Chaux-de-Fonds|2300|Switzerland
+VDA-00091|VD-0355|Time  Comparison|1|2006-07-10 00:00:00|Bahnhofstrasse 44|Landquart|7302|Switzerland
+VDA-00171|VD-0018|Yang, Lucius|1|2011-01-27 00:00:00|Ausserdorfstrasse 16|Unterlunkhofen|8918|Switzerland
+VDA-00495|VD-0420|Booker, Angela|1|2012-04-30 00:00:00|rue du Tr??sor 7|Neuch??tel|2000|Switzerland
+VDA-00668|VD-0490|Mccarty, Hedley|2|2014-04-23 00:00:00|Oberdorfstrasse 23|D??bendorf|8600|Switzerland
+VDA-00454|VD-0368|Stark, Alan|1|2009-03-16 00:00:00|rue de Savoie 2|Payerne|1530|Switzerland
+VDA-00444|VD-0356|Durham, Mannix|1|2009-03-09 00:00:00|rue de la Sagne 17A|Ste-Croix|1450|Switzerland
+VDA-00712|VD-0303|Oconnor, Clarke|2|2014-08-26 00:00:00|Richtiarkade 1|Wallisellen|8304|Switzerland
+VDA-00711|VD-0178|Downs, Herrod|2|2014-06-20 00:00:00|Z??rcherstrasse 322|Winterthur|8406|Switzerland
+VDA-00639|VD-0265|Burnett, Allegra|2|2008-02-26 00:00:00|Bahnstrasse 5|Schwerzenbach|8603|Switzerland
+VDA-00032|VD-0529|Antechnology|1|2007-10-01 00:00:00|Grand-Rue 29-31|Gen??ve|1204|Switzerland
+VDA-00684|VD-0405|Sherman, Jada|2|2016-04-06 00:00:00|Wilstrasse 68|D??bendorf|8600|Switzerland
+VDA-00576|VD-0518|Bullock, Kylan|1|2013-03-06 00:00:00|Weinbergstrasse 110|Winterthur|8408|Switzerland
+VDA-00347|VD-0238|Berry, Melodie|1|2009-02-18 00:00:00|L??weng??sschen 6|Schaffhausen|8200|Switzerland
+VDA-00532|VD-0465|Atkins, Adrienne|1|2012-09-17 00:00:00|Sonneggstrasse 29|Z??rich|8006|Switzerland
+VDA-00143|VD-0056|WriteTech|1|2012-06-21 00:00:00|rue des Envers 27|Le Locle|2400|Switzerland
+VDA-00474|VD-0393|Leonard, Camden|1|2013-06-17 00:00:00|rue du Lac 22|Yverdon-les-Bains|1400|Switzerland
+VDA-00658|VD-0353|Rivas, Karly|2|2013-01-13 00:00:00|Usterstrasse 19|D??bendorf|8600|Switzerland
+VDA-00775|VD-0573|Goodman, Colorado|2|2006-02-04 00:00:00|Wright-Strasse 9|Glattpark (Opfikon)|8152|Switzerland
+VDA-00535|VD-0469|Duffy, Tanner|1|2012-05-29 00:00:00|Sous-la-Velle 16|Le Noirmont|2340|Switzerland
+VDA-00559|VD-0496|Russell, Madison|1|2014-05-23 00:00:00|T??sstalstrasse 23|Kollbrunn|8483|Switzerland
+VDA-00608|VD-0560|Vance, Buckminster|1|2014-09-11 00:00:00|Z??richstrasse 57|Br??ttisellen|8306|Switzerland
+VDA-00119|VD-0252|Time  Cupid|1|2014-11-17 00:00:00|rue du Man??ge 16-18|La Chaux-de-Fonds|2300|Switzerland
+VDA-00289|VD-0167|Mack, Calvin|1|2009-05-08 00:00:00|Haldenstrasse 61|Wangen bei D??bendorf-Br??ttisellen|8602|Switzerland
+VDA-00268|VD-0143|Griffith, Chaim|1|2013-11-29 00:00:00|Froschaugasse 4|Z??rich|8001|Switzerland
+VDA-00389|VD-0293|Sweeney, Ivana|1|2007-04-10 00:00:00|place du Midi 44|Sion|1950|Switzerland
+VDA-00340|VD-0228|Fuentes, Valentine|1|2015-12-14 00:00:00|L??ngenbergstrasse 20|Riggisberg|3132|Switzerland
+VDA-00383|VD-0286|Garcia, Marcia|1|2015-02-02 00:00:00|Pf??ffikerstrasse 27|Kemptthal|8310|Switzerland
+VDA-00749|VD-0080|Hull, Brendan|2|2013-04-01 00:00:00|Zentrum Meierwis|Greifensee|8606|Switzerland
+VDA-00129|VD-0171|Catalyst Time|1|2010-11-26 00:00:00|Landstrasse 77|Wettingen|5430|Switzerland
+VDA-00379|VD-0281|Rocha, Graham|1|2013-05-30 00:00:00|Obergasse 2A|Winterthur|8400|Switzerland
+VDA-00153|VD-0092|Eleventh Hour Events Planning|1|2013-03-15 00:00:00|chemin des Chipres 5A|Le Landeron|2525|Switzerland
+VDA-00488|VD-0412|Cohen, Talon|1|2016-02-24 00:00:00|Rue du Seyon 5|Neuch??tel|2000|Switzerland
+VDA-00434|VD-0345|Cortez, Quinlan|1|2015-02-16 00:00:00|rue de Jaman 4|Corsier-sur-Vevey|1804|Switzerland
+VDA-00114|VD-0304|Sigh Co.|1|2008-02-27 00:00:00|St. Johanns-Ring 134|Basel|4056|Switzerland
+VDA-00157|VD-0002|Finley, Mechelle|1|2009-02-25 00:00:00|Allmendstrasse 17|Fehraltorf|8320|Switzerland
+VDA-00392|VD-0296|Whitaker, Anastasia|1|2011-03-17 00:00:00|place Pury 1|Neuch??tel|2000|Switzerland
+VDA-00452|VD-0365|Bean, Hector|1|2012-03-28 00:00:00|rue de Nidau 70|Biel/Bienne|2502|Switzerland
+VDA-00740|VD-0227|Sharp, Keane|2|2011-04-25 00:00:00|Industriestrasse 30|Kloten|8302|Switzerland
+VDA-00162|VD-0007|Stafford, Lareina|1|2008-04-21 00:00:00|Alte Schwarzeneggstrasse 3|Steffisburg|3612|Switzerland
+VDA-00420|VD-0329|Todd, Vladimir|1|2011-03-28 00:00:00|route d'Italie 156|Uvrier|1958|Switzerland
+VDA-00528|VD-0459|Rice, Orlando|1|2009-10-30 00:00:00|Sennh??ttestrasse 1|Wangen b. D??bendorf|8602|Switzerland
+VDA-00461|VD-0378|Tran, Elijah|1|2014-01-16 00:00:00|rue des Moulins 35|Neuch??tel|2000|Switzerland
+VDA-00084|VD-0152|Tuliptime Tunefest|1|2005-11-29 00:00:00|M??nzgasse 12|Basel|4001|Switzerland
+VDA-00071|VD-0046|Sin Thesis|1|2011-10-19 00:00:00|Bahnhofstrasse 50|Z??rich|8001|Switzerland
+VDA-00443|VD-0354|Whitley, Armando|1|2015-03-30 00:00:00|rue de la Rouvenettaz 4|Montreux|1820|Switzerland
+VDA-00476|VD-0395|Webb, Cameron|1|2014-05-07 00:00:00|rue du Lac 36|Vevey|1800|Switzerland
+VDA-00674|VD-0194|Schwartz, Cody|2|2014-07-15 00:00:00|Hermikonstrasse 68|D??bendorf|8600|Switzerland
+VDA-00757|VD-0572|Era Watch Company|1|2015-01-30 00:00:00|Zwingliplatz 2|Z?rich|8001|Switzerland
+VDA-00175|VD-0022|Joyner, Wilma|1|2008-10-29 00:00:00|avenue de la Cond??mine 10|La Tour-de-Peilz|1814|Switzerland
+VDA-00537|VD-0471|Gilmore, Aspen|1|2007-03-13 00:00:00|Spiegelgasse 29|Z??rich|8001|Switzerland
+VDA-00493|VD-0418|Maxwell, Dustin|1|2015-07-20 00:00:00|rue du Tr??sor 2|Neuch??tel|2000|Switzerland
+VDA-00409|VD-0318|Craft, Hamilton|1|2011-01-07 00:00:00|Rond Champ 4|B??vilard|2735|Switzerland
+VDA-00163|VD-0008|Workman, Cara|1|2006-07-18 00:00:00|Alte Winterthurerstrasse 203|N??rensdorf|8309|Switzerland
+VDA-00677|VD-0442|Oliver, Martina|2|2013-01-08 00:00:00|Brauistrasse 5|Agasul|8308|Switzerland
+VDA-00311|VD-0196|Franklin, Eaton|1|2014-05-12 00:00:00|impasse Pr??-de-la-Croix 44|Cousset|1774|Switzerland
+VDA-00688|VD-0400|Bates, Josiah|2|2016-11-20 00:00:00|Untere Zelglistrasse 11|D??bendorf|8600|Switzerland
+VDA-00371|VD-0269|Cantu, Malik|1|2004-11-24 00:00:00|Neuwiesenstrasse 71|Winterthur|8400|Switzerland
+VDA-00538|VD-0472|Salazar, Kenneth|1|2014-09-30 00:00:00|Spitalgasse 4|Bern|3011|Switzerland
+VDA-00219|VD-0083|Roberson, Allen|1|2014-08-12 00:00:00|boulevard de P??rolles 29|Fribourg|1700|Switzerland
+VDA-00601|VD-0550|Weber, Emerald|1|2009-11-02 00:00:00|Z??rcherstrasse 297|Frauenfeld|8500|Switzerland
+VDA-00198|VD-0054|Griffith, Wanda|1|2016-01-25 00:00:00|Bahnhofstrasse 33|Dietlikon|8305|Switzerland
+VDA-00470|VD-0389|Gilliam, Chelsea|1|2014-03-21 00:00:00|rue du Commerce 17|La Chaux-de-Fonds|2300|Switzerland
+VDA-00656|VD-0022|Joyner, Wilma|2|2009-05-21 00:00:00|Zielackerstrasse 26|Wallisellen|8304|Switzerland
+VDA-00086|VD-0112|Pattern Time|1|2013-02-04 00:00:00|rue du Commerce 13|La Chaux-de-Fonds|2300|Switzerland
+VDA-00313|VD-0198|Crane, Fatima|1|2007-07-24 00:00:00|Industriestrasse 26|Winterthur|8404|Switzerland
+VDA-00441|VD-0352|Serrano, Rowan|1|2012-05-21 00:00:00|rue de la Promenade-Noire 10|Neuch??tel|2000|Switzerland
+VDA-00397|VD-0303|Oconnor, Clarke|1|2013-08-28 00:00:00|quai de la Sorne 5|Del??mont|2800|Switzerland
+VDA-00201|VD-0060|Bray, Katell|1|2007-08-20 00:00:00|Bahnhofstrasse 4|Herisau|9100|Switzerland
+VDA-00166|VD-0011|Simpson, Roth|1|2012-08-29 00:00:00|Altstetterstrasse 145|Z??rich|8048|Switzerland
+VDA-00545|VD-0481|Lowe, Kristen|1|2013-04-15 00:00:00|Stallikerstrasse 1a|Bonstetten|8906|Switzerland
+VDA-00292|VD-0170|Roy, Ruth|1|2013-02-08 00:00:00|H??ringstrasse 4|Z??rich|8001|Switzerland
+VDA-00110|VD-0199|Aeora|1|2013-02-21 00:00:00|Kornhausbr??cke 2|Z??rich|8005|Switzerland
+VDA-00410|VD-0319|Massey, Oleg|1|2012-04-30 00:00:00|R??ssligasse 1|B??lach|8180|Switzerland
+VDA-00195|VD-0049|Bonner, Berk|1|2012-12-19 00:00:00|Bahnhofstrasse 29|D??bendorf|8600|Switzerland
+VDA-00770|VD-0585|Farrell, Samantha|1|2011-08-31 00:00:00|Wilstrasse 7|Dubendorf|8600|Switzerland
+VDA-00028|VD-0461|Zentime|2|2016-04-26 00:00:00|Badenerstrasse 420|Z??rich|8004|Switzerland
+VDA-00643|VD-0090|Bowman, Phillip|2|2015-07-17 00:00:00|Bahnhofstrasse 51|D??bendorf|8600|Switzerland
+VDA-00266|VD-0139|Sparks, Clinton|1|2011-08-31 00:00:00|Freiestrasse 221|Z??rich|8032|Switzerland
+VDA-00458|VD-0372|Wilcox, Alden|1|2012-10-01 00:00:00|rue des Deux-March??s 27|Vevey|1800|Switzerland
+VDA-00197|VD-0053|Nicholson, Trevor|1|2009-06-16 00:00:00|Bahnhofstrasse 33|Interlaken|3800|Switzerland
+VDA-00660|VD-0236|Curry, William|2|2015-06-10 00:00:00|Unterdorfstrasse 48|Br??tten|8311|Switzerland
+VDA-00133|VD-0027|First Class|2|2012-05-27 00:00:00|Streitgasse 1|Basel|4051|Switzerland
+VDA-00456|VD-0370|Flynn, Cecilia|1|2014-02-11 00:00:00|Rue des Bercles 1|Neuch??tel|2000|Switzerland
+VDA-00134|VD-0536|Sign of the Times Advertising Agency|1|2015-10-05 00:00:00|quai du Mont-Blanc 1|Gen??ve|1201|Switzerland
+VDA-00223|VD-0088|Bush, Olivia|1|2005-01-03 00:00:00|Brauerstrasse 80|Z??rich|8004|Switzerland
+VDA-00329|VD-0217|Stark, Odessa|1|2012-12-31 00:00:00|Klotenerstrasse 25|Bassersdorf|8303|Switzerland
+VDA-00707|VD-0341|Guzman, Denton|2|2014-12-04 00:00:00|Z??richstrasse 67|D??bendorf|8600|Switzerland
+VDA-00671|VD-0286|Garcia, Marcia|2|2016-09-01 00:00:00|Wallisellenstrasse 57|D??bendorf|8600|Switzerland
+VDA-00196|VD-0051|Cannon, Magee|1|2012-09-19 00:00:00|Bahnhofstrasse 29|D??bendorf|8600|Switzerland
+VDA-00325|VD-0213|Dixon, Stephanie|1|2013-01-17 00:00:00|Kirchplatz 5|Winterthur|8400|Switzerland
+VDA-00481|VD-0401|Sheppard, Yoshio|1|2014-04-22 00:00:00|rue du Pasquier 19a|Fleurier|2114|Switzerland
+VDA-00536|VD-0470|Baldwin, April|1|2015-05-28 00:00:00|Spalenberg 23|Basel|4051|Switzerland
+VDA-00362|VD-0259|Phelps, Barbara|1|2016-01-06 00:00:00|Moorstrasse 2|Dietlikon|8305|Switzerland
+VDA-00561|VD-0498|Bartlett, Tallulah|1|2015-08-25 00:00:00|Underm??listrasse 28|Fehraltorf|8320|Switzerland
+VDA-00506|VD-0431|Navarro, Davis|1|2011-09-20 00:00:00|ruelle du Haut 6|Biel/Bienne|2502|Switzerland
+VDA-00581|VD-0524|Vaughn, Basil|1|2013-07-31 00:00:00|Werdackerstrasse 4|Waltalingen|8468|Switzerland
+VDA-00333|VD-0221|Wise, Bradley|1|2010-12-06 00:00:00|Kreuzplatz 3|Thayngen|8240|Switzerland
+VDA-00105|VD-0376|Keystone Time|1|2011-10-24 00:00:00|rue de l'Arquebuse 17|Gen??ve|1204|Switzerland
+VDA-00747|VD-0487|Barton, Clarke|2|2016-05-30 00:00:00|Schwerzenbachstrasse 2|F??llanden|8117|Switzerland
+VDA-00013|VD-0404|Time  Surf|1|2004-11-29 00:00:00|Grendelstrasse 19|Luzern|6004|Switzerland
+VDA-00207|VD-0066|Wynn, Idona|1|2014-04-03 00:00:00|Bederstrasse 4|Z??rich|8002|Switzerland
+VDA-00257|VD-0130|Woodard, Alana|1|2008-09-09 00:00:00|Farliwiesenstrasse 4|Wangen b. D??bendorf|8602|Switzerland
+VDA-00080|VD-0441|Keyword Time|1|2006-12-20 00:00:00|rue des Lattes 29|Meyrin|1217|Switzerland
+VDA-00598|VD-0547|Leonard, Caldwell|1|2014-01-27 00:00:00|Zugerstrasse 26|W??denswil|8820|Switzerland
+VDA-00142|VD-0500|Americas Time|2|2012-07-19 00:00:00|Kapellplatz 9|Luzern|6004|Switzerland
+VDA-00447|VD-0360|Payne, Henry|1|2016-01-13 00:00:00|rue de Lausanne 51|Fribourg|1700|Switzerland
+VDA-00531|VD-0464|George, Bruce|1|2005-03-29 00:00:00|Singenbergstrasse 6|St. Gallen|9000|Switzerland
+VDA-00722|VD-0007|Stafford, Lareina|2|2009-06-18 00:00:00|Alte Winterthurerstrasse 31|Wallisellen|8304|Switzerland
+VDA-00416|VD-0325|Merrill, Forrest|1|2015-04-07 00:00:00|route de Sion 21|Sierre|3960|Switzerland
+VDA-00069|VD-0452|Techmania|3|2016-01-24 00:00:00|Via Tegiatscha 17|St. Moritz|7500|Switzerland
+VDA-00200|VD-0058|Alvarado, Declan|1|2006-12-22 00:00:00|Bahnhofstrasse 38|Z??rich|8001|Switzerland
+VDA-00147|VD-0181|Prospect Time|1|2012-11-26 00:00:00|place du Port 1|Gen??ve|1204|Switzerland
+VDA-00209|VD-0070|Clayton, Richard|1|2010-05-10 00:00:00|Bernstrasse 15|Murten|3280|Switzerland
+VDA-00093|VD-0302|Time  Urban|1|2011-10-31 00:00:00|chemin de la Mousse 34|Ch??ne-Bourg|1225|Switzerland
+VDA-00682|VD-0165|Newman, Gil|2|2013-04-10 00:00:00|Im Grossriet 1|Greifensee|8606|Switzerland
+VDA-00319|VD-0207|Mccarty, Lee|1|2010-11-30 00:00:00|Kalanderplatz 1|Z??rich|8045|Switzerland
+VDA-00621|VD-0225|Mack, Nyssa|2|2016-09-05 00:00:00|Eichholzstrasse 1|Volketswil|8604|Switzerland
+VDA-00074|VD-0254|Genmex|1|2013-10-24 00:00:00|rue du Coll??ge 6|Lully VD|1132|Switzerland
+VDA-00187|VD-0039|Townsend, Clayton|1|2009-04-07 00:00:00|avenue L??opold-Robert 31a|La Chaux-de-Fonds|2300|Switzerland
+VDA-00431|VD-0341|Guzman, Denton|1|2014-01-03 00:00:00|rue de Com??raz 144A|Grimisuat|1971|Switzerland
+VDA-00662|VD-0036|Gordon, Britanney|2|2016-07-11 00:00:00|Usterstrasse 39|D??bendorf|8600|Switzerland
+VDA-00593|VD-0541|Wolf, Martina|1|2013-10-22 00:00:00|Zentralstrasse 16|Z??rich|8003|Switzerland
+VDA-00146|VD-0251|District Time|1|2007-11-19 00:00:00|rue de l'Ale 20|Lausanne|1003|Switzerland
+VDA-00184|VD-0036|Gordon, Britanney|1|2014-06-03 00:00:00|avenue Haldimand 3|Yverdon-les-Bains|1400|Switzerland
+VDA-00732|VD-0217|Stark, Odessa|2|2014-07-22 00:00:00|Helen-Keller-Strasse 20|Z??rich|8051|Switzerland
+VDA-00330|VD-0218|Pierce, Yoshio|1|2006-11-27 00:00:00|Klotenerstrasse 39|Bassersdorf|8303|Switzerland
+VDA-00079|VD-0452|Techmania|4|2016-06-04 00:00:00|rue Bournot 17A|Le Locle|2400|Switzerland
+VDA-00609|VD-0561|Henderson, Lance|1|2014-01-27 00:00:00|Z??richstrasse 72|Br??ttisellen|8306|Switzerland
+VDA-00761|VD-0576|Strickland, Leroy|1|2015-11-18 00:00:00|Industriestrasse 29|Dietlikon|8305|Switzerland
+VDA-00262|VD-0135|Hart, Moana|1|2013-12-09 00:00:00|Fluhm??hlerain 3|Luzern|6015|Switzerland
+VDA-00016|VD-0434|Ultrimax|1|2012-05-23 00:00:00|rue du Rh??ne 13|Gen??ve|1204|Switzerland
+VDA-00130|VD-0379|Popcorn Born|3|2016-02-13 00:00:00|Chappelmattweg 4|Merlischachen|6402|Switzerland
+VDA-00368|VD-0266|Walls, Roary|1|2014-01-27 00:00:00|Neue Winterthurerstrasse 15|Bassersdorf|8303|Switzerland
+VDA-00099|VD-0564|Cascade Time|4|2013-03-22 00:00:00|boulevard des Eplatures 46F|La Chaux-de-Fonds|2300|Switzerland
+VDA-00008|VD-0125|Valent Technologies|1|2014-11-17 00:00:00|Niederrohrdorferstrasse 1|Fislisbach|5442|Switzerland
+VDA-00515|VD-0443|Mann, Dane|1|2010-09-20 00:00:00|Schlossbergstrasse 6|Rudolfingen|8465|Switzerland
+VDA-00092|VD-0120|Moving with the Times|2|2014-11-08 00:00:00|Vogelsang 2|Eich|6205|Switzerland
+VDA-00299|VD-0180|Bender, Jordan|1|2012-12-05 00:00:00|Hegnaustrasse 2|Wangen b. D??bendorf|8602|Switzerland
+VDA-00738|VD-0201|Fulton, Bruno|2|2016-10-30 00:00:00|Graswinkelstrasse 54|Kloten|8302|Switzerland
+VDA-00261|VD-0134|Morton, Carla|1|2012-11-09 00:00:00|Florhofstrasse 13|W??denswil|8820|Switzerland
+VDA-00022|VD-0101|ColorOptic|1|2011-11-09 00:00:00|Voa Principala 41|Lenzerheide/Lai|7078|Switzerland
+VDA-00183|VD-0034|Downs, Len|1|2016-06-14 00:00:00|avenue Haldimand 3|Yverdon-les-Bains|1400|Switzerland
+VDA-00413|VD-0322|Goodman, Camden|1|2014-11-04 00:00:00|route de la Gl??ne 107|Villars-sur-Gl??ne|1752|Switzerland
+VDA-00050|VD-0023|Vibrant Time|2|2014-02-10 00:00:00|Bahnhofstrasse 18|Zug|6300|Switzerland
+VDA-00057|VD-0257|SecondTime|1|2013-12-23 00:00:00|Solothurnstrasse 90|Grenchen|2540|Switzerland
+VDA-00577|VD-0519|Raymond, Martha|1|2015-10-06 00:00:00|Weinbergstrasse 20|Z??rich|8001|Switzerland
+VDA-00547|VD-0483|Lewis, Shelly|1|2011-07-19 00:00:00|Stauffacherstrasse 60||8004|Switzerland
+VDA-00584|VD-0530|Mendez, Benedict|1|2013-08-28 00:00:00|Wieslergasse 1|Z??rich|8049|Switzerland
+VDA-00243|VD-0113|Colon, Keefe|1|2009-06-15 00:00:00|Dorfplatz 1|Bassersdorf|8303|Switzerland
+VDA-00098|VD-0521|NextTime|1|2011-07-29 00:00:00|Bahnhofstrasse 111|Wetzikon ZH|8620|Switzerland
+VDA-00728|VD-0494|Serrano, Sara|2|2011-03-10 00:00:00|Z??richstrasse 130|D??bendorf|8600|Switzerland
+VDA-00417|VD-0326|Curry, Glenna|1|2013-07-29 00:00:00|route de Villariaz 21|Vuisternens-devant-Romont|1687|Switzerland
+VDA-00638|VD-0300|Parker, Erica|2|2010-12-14 00:00:00|Kirchweg 30|Volketswil|8604|Switzerland
+VDA-00364|VD-0262|Booker, Catherine|1|2013-09-03 00:00:00|M??hlebachstrasse 52|Z??rich|8008|Switzerland
+VDA-00467|VD-0386|Berg, Stone|1|2016-03-29 00:00:00|rue des Somm??tres 8|Saignel??gier|2350|Switzerland
+VDA-00589|VD-0537|Randolph, Kellie|1|2005-10-26 00:00:00|Winterthurerstrasse 7|Bassersdorf|8303|Switzerland
+VDA-00567|VD-0506|Padilla, Lucy|1|2016-02-03 00:00:00|via Buonamano 2|Ascona|6612|Switzerland
+VDA-00422|VD-0332|Farrell, Fulton|1|2010-03-09 00:00:00|route du Vanel 82|Corbi??res|1647|Switzerland
+VDA-00735|VD-0130|Woodard, Alana|2|2009-09-17 00:00:00|Z??richstrasse 47|N??nikon|8606|Switzerland
+VDA-00267|VD-0140|Mccray, Stephen|1|2002-12-27 00:00:00|Fr??hlichstrasse 39|Z??rich|8008|Switzerland
+VDA-00180|VD-0031|Workman, Elijah|1|2011-11-09 00:00:00|avenue des Alpes 56|Montreux|1820|Switzerland
+VDA-00070|VD-0122|Viper Time|1|2006-09-13 00:00:00|chemin de la Baume 25|Evilard|2533|Switzerland
+VDA-00367|VD-0265|Burnett, Allegra|1|2006-10-30 00:00:00|Nansenstrasse 21|Z??rich|8050|Switzerland
+VDA-00635|VD-0053|Nicholson, Trevor|2|2011-01-17 00:00:00|Bachstrasse 1|Volketswil|8604|Switzerland
+VDA-00502|VD-0427|Duke, Naomi|1|2015-03-06 00:00:00|Rue Neuve 1bis|Ste-Croix|1450|Switzerland
+VDA-00592|VD-0540|Hooper, Hunter|1|2012-07-09 00:00:00|Zentralstrasse 129|Z??rich|8003|Switzerland
+VDA-00145|VD-0379|Popcorn Born|4|2016-10-31 00:00:00|rue du Jardin 3|Le Locle|2400|Switzerland
+VDA-00530|VD-0463|Atkins, Damon|1|2013-01-22 00:00:00|Singenbergstrasse 6|St. Gallen|9000|Switzerland
+VDA-00097|VD-0441|Keyword Time|2|2010-03-29 00:00:00|via della Salina 1|Muralto|6600|Switzerland
+VDA-00300|VD-0182|Herring, Kaseem|1|2014-05-27 00:00:00|Hermannstrasse 7|Winterthur|8400|Switzerland
+VDA-00471|VD-0390|Burch, Shaine|1|2008-12-10 00:00:00|rue du Doubs 157|La Chaux-de-Fonds|2300|Switzerland
+VDA-00323|VD-0211|Guthrie, Jonah|1|2005-05-19 00:00:00|Kindhausenstrasse 7||8602|Switzerland
+VDA-00190|VD-0042|Barber, Austin|1|2010-12-13 00:00:00|Bahnhofplatz 5|Winterthur|8400|Switzerland
+VDA-00398|VD-0305|Mcclain, Elmo|1|2012-07-18 00:00:00|R??ffelstrasse 32||8045|Switzerland
+VDA-00059|VD-0172|Ebony Time|1|2011-09-05 00:00:00|place de la Tour 23|L'Abbaye|1344|Switzerland
+VDA-00125|VD-0366|Nikuda|1|2013-03-26 00:00:00|Rathausgasse 10|Lenzburg|5600|Switzerland
+VDA-00525|VD-0456|Christian, George|1|2006-12-13 00:00:00|Seefeldstrasse 83|Z??rich|8008|Switzerland
+VDA-00061|VD-0068|Furnitech|2|2010-09-17 00:00:00|Hauptgasse 7|Lichtensteig|9620|Switzerland
+VDA-00699|VD-0555|Wynn, Noel|2|2008-04-13 00:00:00|Ringstrasse 12|D??bendorf|8600|Switzerland
+VDA-00342|VD-0232|Zimmerman, Charde|1|2014-01-20 00:00:00|Leonhardstrasse 34|Z??rich ETH-Zentrum|8092|Switzerland
+VDA-00583|VD-0528|Reed, Miranda|1|2006-01-30 00:00:00|Wiesenweg 1|Bassersdorf|8303|Switzerland
+VDA-00277|VD-0153|French, Colt|1|2015-01-14 00:00:00|Gfennstrasse 11D|D??bendorf|8600|Switzerland
+VDA-00425|VD-0335|Barnett, Blossom|1|2010-07-05 00:00:00|Ruchstuckstrasse 3|Br??ttisellen|8306|Switzerland
+VDA-00131|VD-0377|Time  Iron|1|2015-05-06 00:00:00|rue du Puits-Godet 6A|Neuch??tel|2000|Switzerland
+VDA-00100|VD-0379|Popcorn Born|2|2015-09-04 00:00:00|Via Maistra 130|Pontresina|7504|Switzerland
+VDA-00558|VD-0494|Serrano, Sara|1|2010-01-07 00:00:00|Titlisstrasse 1|Engelberg|6390|Switzerland
+VDA-00527|VD-0458|Wong, Sydney|1|2009-10-19 00:00:00|Seilergraben 43|Z??rich|8001|Switzerland
+VDA-00215|VD-0079|Golden, Elvis|1|2010-07-05 00:00:00|Bl??sihof 1|Winterberg|8312|Switzerland
+VDA-00029|VD-0125|Valent Technologies|3|2016-07-29 00:00:00|B??lliz 57|Thun|3600|Switzerland
+VDA-00346|VD-0237|Webb, Sierra|1|2015-07-10 00:00:00|Lindauerstrasse 27|Tagelswangen||
+VDA-00663|VD-0222|Mckee, Harrison|2|2013-07-13 00:00:00|Oberdorfstrasse 15|D??bendorf|8600|Switzerland
+VDA-00372|VD-0270|Wiley, Finn|1|2011-05-30 00:00:00|Oberdorfstrasse 16e|Z??rich|8001|Switzerland
+VDA-00317|VD-0204|Morton, Ray|1|2008-06-26 00:00:00|Jurastrasse 42/48|Wettingen|5430|Switzerland
+VDA-00494|VD-0419|Harrison, Chadwick|1|2014-03-28 00:00:00|rue du Tr??sor 2|Neuch??tel|2000|Switzerland
+VDA-00689|VD-0497|Jefferson, Ferdinand|2|2013-11-06 00:00:00|Seidenstrasse 2|Wallisellen|8304|Switzerland
+VDA-00753|VD-0568|Contreras, Myles|1|2015-03-24 00:00:00|Martplatz 5|Effretikon|8307|Switzerland
+VDA-00661|VD-0009|Fletcher, Amery|2|2015-08-26 00:00:00|Grindelstrasse 20|Bassersdorf|8303|Switzerland
+VDA-00405|VD-0313|Sharp, Carl|1|2016-11-22 00:00:00|Rigackerstrasse 18|Wohlen|5610|Switzerland
+VDA-00408|VD-0317|Coleman, Nicholas|1|2011-06-08 00:00:00|Rindermarkt 20|Z??rich|8001|Switzerland
+VDA-00151|VD-0509|Candid Time|1|2014-09-01 00:00:00|Grand Rue 52|Ch??teau-d'Oex|1660|Switzerland
+VDA-00082|VD-0206|Time  Avatar|2|2016-10-04 00:00:00|rue de Lausanne 14|Gen??ve|1201|Switzerland
+VDA-00618|VD-0021|Anderson, Deacon|2|2010-03-20 00:00:00|Chappelistrasse 1|Volketswil|8604|Switzerland
+VDA-00564|VD-0503|Noble, Abdul|1|2009-07-27 00:00:00|Untergasse 1|B??lach|8180|Switzerland
+VDA-00118|VD-0279|Semantic Time|1|2015-03-16 00:00:00|Gerechtigkeitsgasse 43|Bern|3011|Switzerland
+VDA-00044|VD-0029|Midnight Time|1|2011-07-15 00:00:00|Neumarkt Oerlikon, Hofwiesenstrasse 350-354|Z??rich|8050|Switzerland
+VDA-00001|VD-0513|Hourglass Etching|1|2007-12-03 00:00:00|Rennweg 7|Z??rich|8001|Switzerland
+VDA-00221|VD-0085|Ortega, Leroy|1|2012-03-15 00:00:00|boulevard de P??rolles 59|Fribourg|1700|Switzerland
+VDA-00686|VD-0260|Day, Magee|2|2013-05-02 00:00:00|Lindenstrasse 10|Wallisellen|8304|Switzerland
+VDA-00328|VD-0216|Wilkinson, Rahim|1|2012-08-13 00:00:00|Klotenerstrasse 17|Bassersdorf|8303|Switzerland
+VDA-00501|VD-0426|Pierce, Oscar|1|2011-10-24 00:00:00|rue Louis-J.-Chevrolet 46|La Chaux-de-Fonds|2300|Switzerland
+VDA-00192|VD-0045|Burris, Anthony|1|2013-12-23 00:00:00|Bahnhofstrasse 151|Wetzikon|8620|Switzerland
+VDA-00754|VD-0569|Hines, Richard|1|2011-07-22 00:00:00|Zurichstrasse 38|Bruttisellen|8306|Switzerland
+VDA-00641|VD-0274|Carpenter, Randall|2|2014-12-05 00:00:00|Bahnhofstrasse 65|D??bendorf|8600|Switzerland
+VDA-00038|VD-0407|Plasma Time|1|2011-10-17 00:00:00|via Nassa 5|Lugano|6900|Switzerland
+VDA-00306|VD-0191|Salas, Alexander|1|2013-09-16 00:00:00|H??heweg 197|Interlaken|3800|Switzerland
+VDA-00009|VD-0513|Hourglass Etching|3|2011-08-17 00:00:00|Steigbreitestrasse 12|Hinwil|8340|Switzerland
+VDA-00168|VD-0015|Ashley, Kermit|1|2013-07-08 00:00:00|Anwandstrasse 30|Z??rich|8004|Switzerland
+VDA-00324|VD-0212|Acevedo, Melissa|1|2011-05-23 00:00:00|Kirchplatz 2|Winterthur|8400|Switzerland
+VDA-00291|VD-0169|Vega, Philip|1|2007-12-18 00:00:00|Hardturmstrasse 66|Z??rich|8005|Switzerland
+VDA-00164|VD-0009|Fletcher, Amery|1|2014-10-20 00:00:00|Alte Winterthurerstrasse 45|N??rensdorf|8309|Switzerland
+VDA-00588|VD-0535|Wooten, Melissa|1|2014-12-08 00:00:00|Winterthurerstrasse 12|Bassersdorf|8303|Switzerland
+VDA-00318|VD-0205|Holcomb, Serina|1|2014-05-13 00:00:00|Kaiserstuhlerstrasse 9|Stadel b. Niederglatt|8174|Switzerland
+VDA-00046|VD-0461|Zentime|3|2016-10-23 00:00:00|Bahnhofstrasse 22|Biel/Bienne|2502|Switzerland
+VDA-00516|VD-0444|Kennedy, Gray|1|2010-07-09 00:00:00|Sch??nenbergstrasse 1|W??denswil|8820|Switzerland
+VDA-00384|VD-0287|Shaw, Rahim|1|2014-09-09 00:00:00|place de la Fontaine 4|Peseux|2034|Switzerland
+VDA-00599|VD-0548|Rasmussen, Wyoming|1|2015-12-29 00:00:00|Z??rcherstrasse 161|Frauenfeld|8500|Switzerland
+VDA-00745|VD-0398|Estes, Basil|2|2010-04-23 00:00:00|Sunnetalstrasse 2a|F??llanden|8117|Switzerland
+VDA-00094|VD-0527|Comet Time|1|2006-05-22 00:00:00|Bahnhofstrasse 31|K??ssnacht am Rigi|6403|Switzerland
+VDA-00563|VD-0502|Black, Brennan|1|2014-03-11 00:00:00|Untere Plessurstrasse 38|Chur|7000|Switzerland
+VDA-00193|VD-0047|Copeland, Camden|1|2013-04-29 00:00:00|Bahnhofstrasse 21|Effretikon|8307|Switzerland
+VDA-00250|VD-0121|Norris, Jakeem|1|2010-09-06 00:00:00|Dorfstrasse 79a|Wettingen|5430|Switzerland
+VDA-00045|VD-0050|Design of the Times|1|2011-02-21 00:00:00|chemin de Blandonnet 8|Vernier|1214|Switzerland
+VDA-00301|VD-0184|Wilkinson, Stone|1|2014-02-27 00:00:00|Hirzenbachstrasse 102|Z??rich|8051|Switzerland
+VDA-00597|VD-0546|Bradford, Ulric|1|2014-09-01 00:00:00|Zugerstrasse 23|W??denswil||
+VDA-00137|VD-0299|InTime Learning|4|2007-10-22 00:00:00|Clos-Belmont 2|Gen??ve|1208|Switzerland
+VDA-00648|VD-0094|Atkinson, Grace|2|2012-05-22 00:00:00|Schloss-Strasse 2|Ottikon b. Kemptthal|8307|Switzerland
+VDA-00742|VD-0412|Cohen, Talon|2|2016-10-30 00:00:00|Oberfeldstrasse 12A|Kloten|8302|Switzerland
+VDA-00730|VD-0463|Atkins, Damon|2|2014-11-02 00:00:00|Bruggacherstrasse 26|F??llanden|8117|Switzerland
+VDA-00736|VD-0481|Lowe, Kristen|2|2016-04-23 00:00:00|Auenstrasse 4|D??bendorf|8600|Switzerland
+VDA-00058|VD-0142|Saint Time|1|2008-05-02 00:00:00|Solothurnstrasse 13|Urtenen-Sch??nb??hl|3322|Switzerland
+VDA-00491|VD-0416|Fischer, Sarah|1|2009-04-21 00:00:00|rue du Tertre 1|La Chaux-de-Fonds|2300|Switzerland
+VDA-00551|VD-0487|Barton, Clarke|1|2014-01-28 00:00:00|Studbachstrasse 12|Hinwil|8340|Switzerland
+VDA-00239|VD-0107|Franks, Colin|1|2010-08-11 00:00:00|chemin du Coteau 27|Grandson|1422|Switzerland
+VDA-00068|VD-0375|Pinnacle Time|1|2006-06-12 00:00:00|Im Z??pfli 1|Luzern|6004|Switzerland
+VDA-00148|VD-0185|Time  Nano|1|2011-05-06 00:00:00|rue du Pr?? au Maire 10|Les Breuleux|2345|Switzerland
+VDA-00719|VD-0491|Gould, Randall|2|2016-02-23 00:00:00|Bahnhofplatz 1c|Wallisellen|8304|Switzerland
+VDA-00644|VD-0255|Santana, Emmanuel|2|2013-11-30 00:00:00|Bahnstrasse 10|Schwerzenbach|8603|Switzerland
+VDA-00242|VD-0111|Crawford, Carson|1|2009-05-14 00:00:00|Dietzingerstrasse 3|Z??rich|8003|Switzerland
+VDA-00314|VD-0201|Fulton, Bruno|1|2016-10-25 00:00:00|Industriestrasse 26|Winterthur|8404|Switzerland
+VDA-00124|VD-0432|Beyond Time|3|2007-10-07 00:00:00|rue Bubenberg 7|Biel/Bienne|2502|Switzerland
+VDA-00376|VD-0277|Rasmussen, Hadassah|1|2015-03-23 00:00:00|Obere Bahnhofstrasse 10A|Affoltern am Albis|8910|Switzerland
+VDA-00510|VD-0437|Hall, Jelani|1|2010-06-03 00:00:00|S??ntisstrasse 2|Dietlikon|8305|Switzerland
+VDA-00077|VD-0043|Time  Council|1|2008-10-31 00:00:00|Pfistergasse 3|Luzern|6003|Switzerland
+VDA-00020|VD-0014|Exotechno|1|2010-11-29 00:00:00|via Alfonso Turconi 17|Mendrisio|6850|Switzerland
+VDA-00339|VD-0227|Sharp, Keane|1|2010-05-18 00:00:00|Lang??cherstrasse 3|Bellikon|5454|Switzerland
+VDA-00015|VD-0290|IdiTech|1|2007-04-27 00:00:00|Aeulestrasse 2|Vaduz|9490|Switzerland
+VDA-00539|VD-0474|Zimmerman, Lillith|1|2013-02-13 00:00:00|Sportplatzstrasse 4|Effretikon|8307|Switzerland
+VDA-00604|VD-0556|Dodson, Portia|1|2015-06-09 00:00:00|Z??richstrasse 14|Uster|8610|Switzerland
+VDA-00421|VD-0331|Rodriguez, Sade|1|2009-01-23 00:00:00|route du Chasseral 14|Estavayer-le-Lac|1470|Switzerland
+VDA-00217|VD-0081|Wiggins, Samantha|1|2006-07-03 00:00:00|boulevard de P??rolles 22|Fribourg|1700|Switzerland
+VDA-00025|VD-0415|NorthStar Time|2|2012-10-21 00:00:00|Kolinplatz 11|Zug|6300|Switzerland
+VDA-00272|VD-0147|Watkins, Hayley|1|2011-12-27 00:00:00|Gasometerstrasse 28|Z??rich|8005|Switzerland
+VDA-00627|VD-0418|Maxwell, Dustin|2|2016-05-12 00:00:00|Usterstrasse 6|Illnau|8308|Switzerland
+VDA-00075|VD-0035|Velocity Time|1|2006-02-27 00:00:00|rue Louis Antille 11|Crans-Montana|3963|Switzerland
+VDA-00602|VD-0551|Norris, Driscoll|1|2007-11-07 00:00:00|Z??rcherstrasse 4|Rapperswil|8640|Switzerland
+VDA-00463|VD-0382|Rhodes, Xander|1|2015-08-13 00:00:00|rue des Parcs 111|Neuch??tel|2000|Switzerland
+VDA-00150|VD-0552|CranialTech|1|2010-11-17 00:00:00|place de la Fusterie 5|Gen??ve|1204|Switzerland
+VDA-00544|VD-0480|Morin, Baxter|1|2004-01-06 00:00:00|Stadthausstrasse 57|Winterthur|8400|Switzerland
+VDA-00517|VD-0445|Frost, Tatiana|1|2014-01-30 00:00:00|Schulgasse 6|Nidau|2560|Switzerland
+VDA-00526|VD-0457|Beach, Sydney|1|2011-06-22 00:00:00|Seestrasse 159a|Uster|8610|Switzerland
+VDA-00018|VD-0415|NorthStar Time|1|2012-01-26 00:00:00|Hauptstrasse 54|G??ttingen|8594|Switzerland
+VDA-00453|VD-0367|Pena, Germane|1|2012-10-30 00:00:00|rue de Romont 20|Fribourg|1700|Switzerland
+VDA-00283|VD-0160|Irwin, Ila|1|2016-02-24 00:00:00|Grand-Rue 26|Montreux|1820|Switzerland
+VDA-00005|VD-0159|Impulse Time|1|2012-11-09 00:00:00|Klosterplatz 1|Solothurn|4500|Switzerland
+VDA-00469|VD-0388|Goodwin, John|1|2011-12-15 00:00:00|rue du Bourg 6|Aigle|1860|Switzerland
+VDA-00704|VD-0558|Huffman, Coby|2|2016-01-26 00:00:00|Hochbordstrasse 6|D??bendorf|8600|Switzerland
+VDA-00426|VD-0336|York, Ruby|1|2010-08-09 00:00:00|rue Aim??-Steinlen 7|Vevey|1800|Switzerland
+VDA-00078|VD-0012|BizTech|1|2007-12-21 00:00:00|Grand-Rue 34|Reconvilier|2732|Switzerland
+VDA-00210|VD-0071|Villarreal, Dustin|1|2013-03-18 00:00:00|Bernstrasse 18|Br??gg|2555|Switzerland
+VDA-00298|VD-0179|Rodriquez, Yen|1|2012-12-10 00:00:00|Hauptstrasse 4|Aadorf|8355|Switzerland
+VDA-00052|VD-0059|Platform Time|1|2005-09-28 00:00:00|avenue de la Gare 47|Del??mont|2800|Switzerland
+VDA-00116|VD-0027|First Class|1|2011-11-09 00:00:00|Via Serlas 24|St. Moritz|7500|Switzerland
+VDA-00366|VD-0264|Rodriguez, Tiger|1|2015-07-24 00:00:00|Murgtalstrasse 20|M??nchwilen|9542|Switzerland
+VDA-00102|VD-0501|Sapphire Time|1|2013-04-22 00:00:00|riva Giocondo Albertolli 3|Lugano|6900|Switzerland
+VDA-00123|VD-0446|Techade|1|2008-02-11 00:00:00|route de la Galaise 24|Plan-les-Ouates|1228|Switzerland
+VDA-00120|VD-0342|Method Time|1|2005-09-19 00:00:00|Poststrasse 11|Utzenstorf|3427|Switzerland
+VDA-00259|VD-0132|Ward, Tad|1|2014-01-30 00:00:00|Ferrachstrasse 9|R??ti|8630|Switzerland
+VDA-00734|VD-0424|Cooper, Bruno|2|2016-07-15 00:00:00|Opfikonerstrasse 13|Wallisellen|8304|Switzerland
+VDA-00144|VD-0152|Tuliptime Tunefest|3|2013-07-16 00:00:00|Bahnhofstrasse 41|Zermatt|3920|Switzerland
+VDA-00152|VD-0173|enCycle|1|2013-11-29 00:00:00|rue du Mont-Blanc 20|Gen??ve|1201|Switzerland
+VDA-00396|VD-0301|Reid, Zenia|1|2007-03-05 00:00:00|P??ntstrasse 25|Volketswil|8604|Switzerland
+VDA-00625|VD-0025|Wright, Lysandra|2|2011-01-04 00:00:00|Ueberlandstrasse 255|D??bendorf|8600|Switzerland
+VDA-00650|VD-0242|Rose, Zane|2|2009-03-04 00:00:00|Grabenwisstrasse 5|Volketswil|8604|Switzerland
+VDA-00155|VD-0460|Technohabitat|1|2011-05-26 00:00:00|Schmittenackerstrasse 6|L??ufelfingen|4448|Switzerland
+VDA-00312|VD-0197|Meadows, Eaton|1|2010-08-12 00:00:00|Industriestrasse 1|Volketswil|8604|Switzerland
+VDA-00385|VD-0288|Trevino, Mufutau|1|2005-10-17 00:00:00|place des Halles 8|Neuch??tel|2000|Switzerland
+VDA-00096|VD-0554|OneStop Time|1|2014-11-12 00:00:00|rue des Bossons 78-80|Petit-Lancy|1213|Switzerland
+VDA-00709|VD-0443|Mann, Dane|2|2011-12-23 00:00:00|Richtiplatz 3|Wallisellen|8304|Switzerland
+VDA-00562|VD-0499|Sykes, Timothy|1|2011-09-02 00:00:00|Untere Bahnhofstrasse 21|Rapperswil|8640|Switzerland
+VDA-00377|VD-0278|Glover, Amos|1|2014-02-26 00:00:00|Obere Kirchgasse 10|Winterthur|8400|Switzerland
+VDA-00468|VD-0387|Nelson, Penelope|1|2016-11-09 00:00:00|rue des Usines 22|Neuch??tel|2000|Switzerland
+VDA-00570|VD-0510|Quinn, Robin|1|2013-05-24 00:00:00|via Pretorio 7|Lugano|6900|Switzerland
+VDA-00290|VD-0168|Olson, Aaron|1|2007-06-11 00:00:00|Halle Landesmuseum|Z??rich|8001|Switzerland
+VDA-00435|VD-0346|Skinner, Solomon|1|2012-01-03 00:00:00|Rue de la Charri??re 22|La Chaux-de-Fonds|2300|Switzerland
+VDA-00565|VD-0504|Snow, Brody|1|2008-04-24 00:00:00|Usterstrasse 25|Bertschikon (Gossau ZH)|8614|Switzerland
+VDA-00700|VD-0347|Sykes, Chancellor|2|2016-05-27 00:00:00|Neugutstrasse 90|D??bendorf|8600|Switzerland
+VDA-00238|VD-0106|Paul, Drew|1|2011-08-19 00:00:00|chemin du Coin 8|Biel/Bienne|2504|Switzerland
+VDA-00230|VD-0096|Ruiz, Upton|1|2012-05-04 00:00:00|Busenhardstrasse 11|Herrliberg|8704|Switzerland
+VDA-00108|VD-0231|RedHot Time|1|2010-03-23 00:00:00|rue de Murat 179|Montfaucon|2362|Switzerland
+VDA-00287|VD-0165|Newman, Gil|1|2011-09-09 00:00:00|Grossrietstrasse 2|N??nikon|8606|Switzerland
+VDA-00505|VD-0430|Gilbert, Chava|1|2015-11-04 00:00:00|rue Principale 36|Villeret|2613|Switzerland
+VDA-00140|VD-0074|Cytrex|1|2006-02-06 00:00:00|avenue Jules-Crosnier 4|Gen??ve|1206|Switzerland
+VDA-00026|VD-0290|IdiTech|2|2009-03-06 00:00:00|Jupiterstrasse 14|Allschwil|4123|Switzerland
+VDA-00042|VD-0316|Displaytech|1|2011-04-18 00:00:00|rue Centrale 5|Lausanne|1003|Switzerland
+VDA-00188|VD-0040|Brock, Nehru|1|2005-08-08 00:00:00|B??ckerstrasse 10|Z??rich|8004|Switzerland
+VDA-00729|VD-0539|Cantu, Harper|2|2008-12-07 00:00:00|Z??richstrasse 130|D??bendorf|8600|Switzerland
+VDA-00006|VD-0245|Lighthouse Time|1|2013-01-03 00:00:00|Zentrum Neuwiesen, Strickerstrasse 3|Winterthur|8400|Switzerland
+VDA-00304|VD-0189|Love, Denton|1|2016-05-26 00:00:00|Hofackerstrasse 13|Z??rich|8032|Switzerland
+VDA-00213|VD-0075|Hanson, Sandra|1|2012-02-14 00:00:00|Bingertstrasse 8|Boppelsen|8113|Switzerland
+VDA-00370|VD-0268|Ayala, Linus|1|2016-11-11 00:00:00|Neue Winterthurerstrasse 99|Wallisellen|8304|Switzerland
+VDA-00106|VD-0108|Turnkey Time|1|2007-11-14 00:00:00|rue de la R??tisserie 8|Gen??ve|1204|Switzerland
+VDA-00041|VD-0564|Cascade Time|1|2010-01-25 00:00:00|Wolfeggstrasse 1|Widen|8967|Switzerland
+VDA-00514|VD-0442|Oliver, Martina|1|2010-09-15 00:00:00|Schlimpergstrasse 4|Effretikon|8307|Switzerland
+VDA-00103|VD-0516|Lifetime Time|1|2011-03-22 00:00:00|Gerbergasse 5|Z??rich|8001|Switzerland
+VDA-00440|VD-0351|Trevino, Leroy|1|2014-09-10 00:00:00|rue de la Promenade 42|Bulle|1630|Switzerland
+VDA-00348|VD-0239|Contreras, Jayme|1|2009-09-22 00:00:00|L??wenstrasse 54|Z??rich|8001|Switzerland
+VDA-00717|VD-0311|Christian, Velma|2|2015-09-17 00:00:00|Neue Winterthurerstrasse 99|Wallisellen|8304|Switzerland
+VDA-00546|VD-0482|Ferguson, Ciaran|1|2012-09-14 00:00:00|Stationsstrasse 5|Br??ttisellen|8306|Switzerland
+VDA-00607|VD-0559|Waller, Lionel|1|2012-10-12 00:00:00|Z??richstrasse 46|Bassersdorf|8303|Switzerland
+VDA-00496|VD-0421|Hunter, Tad|1|2010-11-12 00:00:00|rue du Viaduc 30|Biel/Bienne|2502|Switzerland
+VDA-00518|VD-0447|Blackburn, Vladimir|1|2011-07-05 00:00:00|Sch??tzenmattstrasse 14|B??lach|8180|Switzerland
+VDA-00605|VD-0557|Fowler, Leonard|1|2016-11-23 00:00:00|Z??richstrasse 28|Br??ttisellen|8306|Switzerland
+VDA-00521|VD-0451|Hays, Samson|1|2013-04-23 00:00:00|Seefeldstrasse 189|Z??rich|8008|Switzerland
+VDA-00322|VD-0210|Sanford, Nash|1|2007-10-26 00:00:00|Kempttalstrasse 1|Pf??ffikon|8330|Switzerland
+VDA-00253|VD-0126|Riddle, Igor|1|2011-03-28 00:00:00|Eigentalstrasse 55|N??rensdorf|8309|Switzerland
+VDA-00633|VD-0522|Huber, Brent|2|2012-04-20 00:00:00|Sonnenbergstrasse 68|Schwerzenbach|8603|Switzerland
+VDA-00573|VD-0514|Cunningham, Melanie|1|2009-06-15 00:00:00|Wehntalerstrasse 286|Z??rich|8046|Switzerland
+VDA-00359|VD-0255|Santana, Emmanuel|1|2011-04-06 00:00:00|M??rtplatz 5|Effretikon|8307|Switzerland
+VDA-00556|VD-0492|Nolan, Murphy|1|2009-10-28 00:00:00|Technopole 4|Sierre|3960|Switzerland
+VDA-00694|VD-0083|Roberson, Allen|2|2016-03-10 00:00:00|Wilstrasse 100|D??bendorf|8600|Switzerland
+VDA-00683|VD-0038|Gardner, Rafael|2|2011-09-03 00:00:00|Z??richstrasse 27|D??bendorf|8600|Switzerland
+VDA-00264|VD-0137|Harrison, Kadeem|1|2015-03-25 00:00:00|Frankengasse 6|Z??rich|8001|Switzerland
+VDA-00233|VD-0099|Love, Nola|1|2014-03-03 00:00:00|Champ de la Pierre 4a|Sonceboz-Sombeval|2605|Switzerland
+VDA-00027|VD-0183|Tarantella Time!|1|2010-10-14 00:00:00|Pelikanstrasse 6|Z??rich|8001|Switzerland
+VDA-00574|VD-0515|Nixon, Aurelia|1|2015-11-05 00:00:00|Weiernstrasse 22|Aadorf|8355|Switzerland
+VDA-00540|VD-0475|York, Rudyard|1|2011-10-26 00:00:00|St. Gallerstrasse 8|Frauenfeld|8500|Switzerland
+VDA-00626|VD-0045|Burris, Anthony|2|2015-06-14 00:00:00|Usterstrasse 20|Illnau|8308|Switzerland
+VDA-00705|VD-0438|Sparks, Asher|2|2010-03-14 00:00:00|Steinackerstrasse 35|Kloten|8302|Switzerland
+VDA-00117|VD-0120|Moving with the Times|3|2016-02-11 00:00:00|via Pessina 20|Lugano|6900|Switzerland
+VDA-00246|VD-0116|Ball, Forrest|1|2014-08-15 00:00:00|Dorfstrasse 37|Richterswil|8805|Switzerland
+VDA-00089|VD-0432|Beyond Time|1|2005-07-22 00:00:00|esplanade L.-Robert 2|Neuch??tel|2000|Switzerland
+VDA-00053|VD-0415|NorthStar Time|4|2015-02-22 00:00:00|rue du Versoix 1a|La Chaux-de-Fonds|2300|Switzerland
+VDA-00624|VD-0484|Buckley, Wylie|2|2016-08-28 00:00:00|Industriestrasse 28|Dietlikon|8305|Switzerland
+VDA-00286|VD-0164|Lewis, Levi|1|2012-02-06 00:00:00|Grand-Rue 84|Montreux|1820|Switzerland
+VDA-00208|VD-0069|Schwartz, Forrest|1|2012-11-05 00:00:00|Berninastrasse 34|Z??rich|8057|Switzerland
+VDA-00393|VD-0297|Webster, Jena|1|2016-11-29 00:00:00|place Pury 7|Neuch??tel|2000|Switzerland
+VDA-00220|VD-0084|Calhoun, Kiayada|1|2012-10-08 00:00:00|boulevard de P??rolles 4|Fribourg|1700|Switzerland
+VDA-00720|VD-0017|Sykes, Edan|2|2007-12-10 00:00:00|Bahnhofplatz 2|Wallisellen|8304|Switzerland
+VDA-00455|VD-0369|Duffy, Shad|1|2014-10-02 00:00:00|rue de Vevey 16|Bulle|1630|Switzerland
+VDA-00189|VD-0041|Bolton, Penelope|1|2007-08-16 00:00:00|Badstrasse 5|Grafstal|8310|Switzerland
+VDA-00697|VD-0213|Dixon, Stephanie|2|2013-08-20 00:00:00|T??mperlistrasse 10|F??llanden|8117|Switzerland
+VDA-00067|VD-0564|Cascade Time|2|2011-07-05 00:00:00|Bodmenstrasse 12|Zermatt|3920|Switzerland
+VDA-00503|VD-0428|Mays, Ruby|1|2014-06-10 00:00:00|rue Numa-Droz 2|La Chaux-de-Fonds|2300|Switzerland
+VDA-00520|VD-0450|Silva, Ralph|1|2012-01-25 00:00:00|Schwimmbadstrasse|Volketswil|8604|Switzerland
+VDA-00687|VD-0505|Raymond, Vance|2|2016-03-03 00:00:00|Alte Winterthurerstrasse 94|Wallisellen|8304|Switzerland
+VDA-00480|VD-0400|Bates, Josiah|1|2014-09-08 00:00:00|rue du Nord 152|La Chaux-de-Fonds|2300|Switzerland
+VDA-00731|VD-0297|Webster, Jena|2|2016-12-04 00:00:00|Oberfeldstrasse 14|Kloten|8302|Switzerland
+VDA-00315|VD-0202|Green, Angelica|1|2012-07-18 00:00:00|Javastrasse 4|Volketswil|8604|Switzerland
+VDA-00448|VD-0361|Grimes, Kyla|1|2010-12-13 00:00:00|rue de l'Eglise 7|Court??telle|2852|Switzerland
+VDA-00752|VD-0567|Blanchard, Hammett|1|2010-12-24 00:00:00|Bahnhofstrasse 28|Effretikon|8307|Switzerland
+VDA-00759|VD-0574|Tucker, Amos|1|2011-03-14 00:00:00|Neue Winterthurerstrasse 7|Dietlikon|8305|Switzerland
+VDA-00600|VD-0549|Luna, Oleg|1|2008-08-15 00:00:00|Z??rcherstrasse 183|Frauenfeld|8500|Switzerland
+VDA-00039|VD-0380|Cornerstone Time|1|2012-12-17 00:00:00|Niederstad 20|Alpnachstad|6053|Switzerland
+VDA-00760|VD-0575|Holland, Ray|1|2011-07-25 00:00:00|Neue Winterthurerstrasse 7|Dietlikon|8305|Switzerland
+VDA-00381|VD-0283|Snow, Maggie|1|2016-09-15 00:00:00|Oetwilerstrasse 13|Dietikon|8953|Switzerland
+VDA-00128|VD-0186|Specialty Time|1|2009-11-16 00:00:00|Hauptstrasse 36|Biberist|4562|Switzerland
+VDA-00391|VD-0295|Holmes, Harding|1|2007-11-27 00:00:00|place Pestalozzi 8|Yverdon-les-Bains|1400|Switzerland
+VDA-00206|VD-0065|Morse, Carolyn|1|2015-04-09 00:00:00|bas du Village 13|Les Bois||
+VDA-00681|VD-0223|Burt, Shelly|2|2016-11-23 00:00:00|Z??richstrasse 30|D??bendorf|8600|Switzerland
+VDA-00571|VD-0511|Reilly, Lysandra|1|2010-05-28 00:00:00|Von Werdt-Passage 3|Bern|3011|Switzerland
+VDA-00176|VD-0024|Brennan, August|1|2013-11-15 00:00:00|avenue de la Gare 10|Fribourg|1700|Switzerland
+VDA-00511|VD-0438|Sparks, Asher|1|2009-05-22 00:00:00|Schaffhauserstrasse 147|Kloten|8302|Switzerland
+VDA-00251|VD-0123|Pugh, Amal|1|2011-10-20 00:00:00|D??bendorfstrasse 33|Wangen b. D??bendorf|8602|Switzerland
+VDA-00090|VD-0299|InTime Learning|1|2005-02-18 00:00:00|Murbacherstrasse 4|Luzern|6003|Switzerland
+VDA-00486|VD-0409|Duran, Ashely|1|2013-03-04 00:00:00|rue du Quai 1|Montreux|1820|Switzerland
+VDA-00012|VD-0052|Time  Utopia|1|2014-04-22 00:00:00|rue Sonnex 21|Le Grand-Saconnex|1218|Switzerland
+VDA-00112|VD-0229|Technology Wizard|2|2013-10-13 00:00:00|Wiesenbachstrasse 5|Abtwil|9030|Switzerland
+VDA-00412|VD-0321|Wagner, Eleanor|1|2011-04-08 00:00:00|route de la Communance 86|Del??mont|2800|Switzerland
+VDA-00445|VD-0357|Harding, Lael|1|2012-06-28 00:00:00|rue de la Serre 9|La Chaux-de-Fonds|2300|Switzerland
+VDA-00352|VD-0243|Castro, Galena|1|2006-05-18 00:00:00|Marktgasse 3|Winterthur|8400|Switzerland
+VDA-00308|VD-0193|York, Jade|1|2013-12-31 00:00:00|Hohlstrasse 30|Z??rich|8004|Switzerland
+VDA-00437|VD-0348|Skinner, Ishmael|1|2010-08-16 00:00:00|rue de la Concorde 29|Le Locle|2400|Switzerland
+VDA-00326|VD-0214|Henderson, Reuben|1|2011-01-05 00:00:00|Klosterhof 2|R??ti|8630|Switzerland
+VDA-00064|VD-0101|ColorOptic|3|2014-08-29 00:00:00|Innere Poststrasse|Arosa|7050|Switzerland
+VDA-00579|VD-0522|Huber, Brent|1|2010-12-31 00:00:00|Weite Gasse 28|Baden|5400|Switzerland
+VDA-00657|VD-0176|Cox, Abbot|2|2007-06-09 00:00:00|Hofwiesenstrasse 4A|Volketswil|8604|Switzerland
+VDA-00490|VD-0414|Velazquez, Fulton|1|2016-10-17 00:00:00|rue du T??nor 27|Tramelan|2720|Switzerland
+VDA-00401|VD-0308|Hooper, Lee|1|2011-06-06 00:00:00|Rathausgasse 29|Murten|3280|Switzerland
+VDA-00023|VD-0087|Triad Time|1|2011-06-21 00:00:00|Rathausstrasse 27|Rapperswil SG|8640|Switzerland
+VDA-00363|VD-0260|Day, Magee|1|2012-07-30 00:00:00|Moosmattstrasse 30|Dietikon|8953|Switzerland
+VDA-00534|VD-0468|Delacruz, Quin|1|2005-05-26 00:00:00|sous Bellevue 40|Porrentruy|2900|Switzerland
+VDA-00378|VD-0280|Clarke, Giselle|1|2012-06-04 00:00:00|Obere Kirchgasse 18|Winterthur|8400|Switzerland
+VDA-00690|VD-0175|Pacheco, Lareina|2|2016-12-02 00:00:00|Neuweg 4|D??bendorf|8600|Switzerland
+VDA-00394|VD-0298|Murphy, Nissim|1|2013-05-27 00:00:00|Postgasse 52|Bern|3011|Switzerland
+VDA-00054|VD-0026|Spare Time|1|2011-06-14 00:00:00|R??dengasse 4|Basel|4001|Switzerland
+VDA-00636|VD-0105|Robbins, Gillian|2|2008-01-21 00:00:00|Bahnhofstrasse 64|D??bendorf|8600|Switzerland
+VDA-00349|VD-0240|Maldonado, Cole|1|2008-11-24 00:00:00|Marktgasse 16|Rapperswil|8640|Switzerland
+VDA-00714|VD-0560|Vance, Buckminster|2|2015-11-17 00:00:00|Ueberlandstrasse 1|D??bendorf|8600|Switzerland
+VDA-00773|VD-0571|Mcfadden, Stewart|2|2011-11-02 00:00:00|Im Baumgarten 35||8332|Switzerland
+VDA-00724|VD-0561|Henderson, Lance|2|2015-05-11 00:00:00|Hammerweg 1|Wallisellen|8304|Switzerland
+VDA-00063|VD-0397|Kongle|1|2008-12-09 00:00:00|avenue Claude Nobs 2|Montreux|1820|Switzerland
+VDA-00685|VD-0551|Norris, Driscoll|2|2008-06-29 00:00:00|Z??richstrasse 29|D??bendorf|8600|Switzerland
+VDA-00214|VD-0078|Armstrong, Anne|1|2014-09-03 00:00:00|Birkenweg 2|Wallisellen|8304|Switzerland
+VDA-00748|VD-0238|Berry, Melodie|2|2010-05-12 00:00:00|Sunnetalstrasse 2a|F??llanden|8117|Switzerland
+VDA-00614|VD-0247|Thornton, Ivan|2|2013-02-06 00:00:00|Neue Winterthurerstrasse 20|Dietlikon|8305|Switzerland
+VDA-00122|VD-0229|Technology Wizard|3|2015-01-23 00:00:00|Seestrasse 300|Merligen|3658|Switzerland
+VDA-00637|VD-0234|Atkinson, Quemby|2|2011-01-08 00:00:00|Sonnenbergstrasse 68|Schwerzenbach|8603|Switzerland
+VDA-00429|VD-0339|Drake, Hillary|1|2012-04-30 00:00:00|rue de Boujean 122|Biel/Bienne|2504|Switzerland
+VDA-00237|VD-0105|Robbins, Gillian|1|2006-06-08 00:00:00|chemin des Sports 10|V??troz|1963|Switzerland
+VDA-00407|VD-0315|Mcfadden, Gray|1|2009-11-12 00:00:00|Rikonerstrasse 52|Effretikon|8307|Switzerland
+VDA-00603|VD-0555|Wynn, Noel|1|2007-02-20 00:00:00|Z??richstrasse 104|Adliswil|8134|Switzerland
+VDA-00512|VD-0439|Lawrence, Vladimir|1|2014-09-01 00:00:00|Schaffhauserstrasse 76|Glattbrugg|8152|Switzerland
+VDA-00623|VD-0535|Wooten, Melissa|2|2015-10-24 00:00:00|Gfennstrasse 22|D??bendorf|8600|Switzerland
+VDA-00478|VD-0398|Estes, Basil|1|2008-11-28 00:00:00|rue du Lac 40|Clarens|1815|Switzerland
+VDA-00296|VD-0177|Hobbs, Raja|1|2013-06-03 00:00:00|Hauptstrasse 3|Effretikon|8307|Switzerland
+VDA-00464|VD-0383|Phelps, Calvin|1|2014-02-05 00:00:00|rue des Perri??res 8|Le Noirmont|2340|Switzerland
+VDA-00345|VD-0236|Curry, William|1|2014-04-28 00:00:00|Lindauerstrasse 2|N??rensdorf|8309|Switzerland
+VDA-00676|VD-0435|Jensen, Rigel|2|2011-08-15 00:00:00|Steinackerstrasse 68|Kloten|8302|Switzerland
+VDA-00240|VD-0109|Moody, Amos|1|2008-10-24 00:00:00|chemin du Gors 10|Sugiez|1786|Switzerland
+VDA-00280|VD-0156|Sampson, Kylynn|1|2010-11-29 00:00:00|Goethestrasse 5|St??fa|8712|Switzerland
+VDA-00675|VD-0211|Guthrie, Jonah|2|2006-04-09 00:00:00|Industriestrasse 22|Volketswil|8604|Switzerland
+VDA-00715|VD-0361|Grimes, Kyla|2|2014-03-22 00:00:00|Kirchstrasse 4|Wallisellen|8304|Switzerland
+VDA-00646|VD-0128|Jacobs, Gareth|2|2012-10-15 00:00:00|Steighof 2|Br??tten|8311|Switzerland
+VDA-00226|VD-0091|Stafford, Jameson|1|2011-06-14 00:00:00|Brunnwiesenstrasse 26|Z??rich|8049|Switzerland
+VDA-00737|VD-0157|Juarez, Sharon|2|2011-06-19 00:00:00|Oberfeldstrasse 14|Kloten|8302|Switzerland
+VDA-00652|VD-0177|Hobbs, Raja|2|2014-02-02 00:00:00|Im Riet 7|Illnau|8308|Switzerland
+VDA-00610|VD-0562|Carson, Aladdin|1|2014-08-25 00:00:00|Zurlindenstrasse 226|Z??rich|8003|Switzerland
+VDA-00703|VD-0096|Ruiz, Upton|2|2015-01-05 00:00:00|Lagerstrasse 7|D??bendorf|8600|Switzerland
+VDA-00107|VD-0057|Spacewax|1|2009-10-01 00:00:00|Schweizerhofquai 3a|Luzern|6004|Switzerland
+VDA-00693|VD-0547|Leonard, Caldwell|2|2014-09-17 00:00:00|Bubentalstrasse 7|Wallisellen|8304|Switzerland
+VDA-00229|VD-0095|Webster, Dawn|1|2013-08-08 00:00:00|B??rglistrasse 37|W??denswil|8820|Switzerland
+VDA-00076|VD-0206|Time  Avatar|1|2015-11-03 00:00:00|Eichtalstrasse 7|Hombrechtikon|8634|Switzerland
+VDA-00178|VD-0028|Rush, Lester|1|2009-08-14 00:00:00|avenue de la Gare 42|Del??mont|2800|Switzerland
+VDA-00337|VD-0225|Mack, Nyssa|1|2014-08-25 00:00:00|Lagerstrasse 2|Z??rich|8004|Switzerland
+VDA-00606|VD-0558|Huffman, Coby|1|2015-04-27 00:00:00|Z??richstrasse 35|Br??ttisellen|8306|Switzerland
+VDA-00258|VD-0131|Perry, Baker|1|2009-07-28 00:00:00|Feldstrasse 85|B??lach|8180|Switzerland
+VDA-00011|VD-0310|Grok|1|2010-10-25 00:00:00|Seestrasse 16|Weggis|6353|Switzerland
+VDA-00529|VD-0462|Manning, Risa|1|2015-11-23 00:00:00|Shopville|Z??rich|8001|Switzerland
+VDA-00733|VD-0512|Jones, Wylie|2|2012-06-12 00:00:00|Dorfstrasse 13|Kyburg|8314|Switzerland
+VDA-00167|VD-0013|Lara, Aladdin|1|2005-08-15 00:00:00|Anwandstrasse 30|Z??rich|8004|Switzerland
+VDA-00462|VD-0381|Harris, Elvis|1|2011-09-12 00:00:00|rue des Moulins 4|Neuch??tel|2000|Switzerland
+VDA-00580|VD-0523|Frederick, Rhona|1|2007-06-13 00:00:00|Weite Gasse 9|Z??rich|8001|Switzerland
+VDA-00327|VD-0215|Yang, Claudia|1|2015-02-04 00:00:00|Klotenerstrasse 14|Bassersdorf|8303|Switzerland
+VDA-00473|VD-0392|Guzman, Stone|1|2012-08-07 00:00:00|rue du Grand-Pont 20|Sion|1950|Switzerland
+VDA-00343|VD-0233|Ray, Merrill|1|2013-10-01 00:00:00|Limmatquai 56|Z??rich|8001|Switzerland
+VDA-00659|VD-0084|Calhoun, Kiayada|2|2014-04-21 00:00:00|Bahnhofstrasse 28|D??bendorf|8600|Switzerland
+VDA-00771|VD-0586|Mcfadden, Anjolie|1|2004-04-20 00:00:00|Bahnhofstrasse 27|Dubendorf|8600|Switzerland
+VDA-00295|VD-0176|Cox, Abbot|1|2006-03-10 00:00:00|Hauptstrasse 27|Nidau|2560|Switzerland
+VDA-00554|VD-0490|Mccarty, Hedley|1|2011-04-05 00:00:00|Talstrasse 15|Wetzikon|8620|Switzerland
+VDA-00710|VD-0051|Cannon, Magee|2|2013-08-09 00:00:00|Z??richstrasse 94/96|D??bendorf|8600|Switzerland
+VDA-00439|VD-0350|Franklin, Jameson|1|2006-12-28 00:00:00|rue de la Pierre-??-Mazel 10|Neuch??tel|2000|Switzerland
+VDA-00062|VD-0276|Time  Alternative|1|2011-11-11 00:00:00|corso San Gottardo 24|Chiasso|6830|Switzerland
+VDA-00007|VD-0513|Hourglass Etching|2|2011-02-20 00:00:00|Seestrasse 36|Horn|9326|Switzerland
+VDA-00751|VD-0566|Finley, Vernon|1|2006-11-16 00:00:00|Martplatz 5|Effretikon|8307|Switzerland
+VDA-00460|VD-0374|Gillespie, Elijah|1|2015-01-28 00:00:00|rue des Epouses 3|Fribourg|1700|Switzerland
+VDA-00628|VD-0163|Young, Adrian|2|2009-07-03 00:00:00|Rennweg 2|Illnau|8308|Switzerland
+VDA-00040|VD-0553|OpenSource Time|1|2013-04-02 00:00:00|Aarauerstrasse 9|Muri AG|5630|Switzerland
+VDA-00244|VD-0114|Rhodes, Alyssa|1|2008-01-14 00:00:00|Dorfstrasse 22|W??nnewil|3184|Switzerland
+VDA-00695|VD-0357|Harding, Lael|2|2013-06-22 00:00:00|Greifenseestrasse 65|Schwerzenbach|8603|Switzerland
+VDA-00743|VD-0457|Beach, Sydney|2|2013-07-28 00:00:00|Zentrum Meierwis|Greifensee|8606|Switzerland
+VDA-00199|VD-0055|Ramirez, Montana|1|2008-09-04 00:00:00|Bahnhofstrasse 36|D??bendorf|8600|Switzerland
+VDA-00669|VD-0204|Morton, Ray|2|2010-05-07 00:00:00|Industriestrasse 18|Volketswil|8604|Switzerland
+VDA-00160|VD-0005|Summers, Louis|1|2007-05-16 00:00:00|Alte Landstrasse 26|Horgen|8810|Switzerland
+VDA-00485|VD-0408|Bond, Oscar|1|2013-01-07 00:00:00|rue du Prado 9|Crans-Montana|3963|Switzerland
+VDA-00713|VD-0149|Buckley, Nigel|2|2009-11-13 00:00:00|Neue Winterthurerstrasse 99|Wallisellen|8304|Switzerland
+VDA-00402|VD-0309|Roberts, Hunter|1|2013-05-06 00:00:00|Rathausgasse 29|Murten|3280|Switzerland
+VDA-00351|VD-0242|Rose, Zane|1|2008-02-05 00:00:00|Marktgasse 3|Winterthur|8402|Switzerland
+VDA-00590|VD-0538|Cannon, Carly|1|2013-08-28 00:00:00|Z??hringerstrasse 31|Z??rich|8001|Switzerland
+VDA-00387|VD-0291|Tucker, Griffin|1|2009-04-28 00:00:00|place du Midi 25|Sion|1950|Switzerland
+VDA-00072|VD-0101|ColorOptic|4|2015-08-13 00:00:00|Chalet La Rocaille, Promenade 28|Gstaad|3780|Switzerland
+VDA-00331|VD-0219|Holman, Paula|1|2014-06-02 00:00:00|Korporationsweg 13A|Wilen b. Wollerau|8832|Switzerland
+VDA-00611|VD-0563|Sullivan, Evan|1|2014-09-24 00:00:00|Zweierstrasse 50|Z??rich|8004|Switzerland
+VDA-00111|VD-0141|Technoracks|1|2011-01-03 00:00:00|Bahnhofstrasse 64|Z??rich|8001|Switzerland
+VDA-00232|VD-0098|Gill, Michael|1|2016-01-22 00:00:00|Centralweg 16|Affoltern am Albis|8910|Switzerland
+VDA-00225|VD-0090|Bowman, Phillip|1|2013-12-06 00:00:00|Brunngasse 4|Z??rich|8001|Switzerland
+VDA-00320|VD-0208|Hanson, Giacomo|1|2009-07-17 00:00:00|Kalanderplatz 1|Z??rich|8045|Switzerland
+VDA-00263|VD-0136|Jacobs, Maggy|1|2010-11-01 00:00:00|Forchstrasse 173|Zollikerberg|8125|Switzerland
+VDA-00249|VD-0119|Cooley, Aristotle|1|2014-05-07 00:00:00|Dorfstrasse 6|Effretikon|8307|Switzerland
+VDA-00767|VD-0582|Bernard, Willa|1|2014-03-20 00:00:00|Industriestrasse 1|Volketswil|8604|Switzerland
+VDA-00017|VD-0076|Swiss Events Rentals|1|2015-01-30 00:00:00|Zwingliplatz 2|Z?rich|8001|Switzerland
+VDA-00194|VD-0048|Jacobs, Marvin|1|2016-02-19 00:00:00|Bahnhofstrasse 28|Effretikon|8307|Switzerland
+VDA-00423|VD-0333|Norris, Steel|1|2014-12-30 00:00:00|route Jambe-Ducommun 6b|Le Locle|2400|Switzerland
+VDA-00504|VD-0429|Zimmerman, Cullen|1|2016-03-02 00:00:00|rue Pr??fet Comte 12|Court??telle|2852|Switzerland
+VDA-00205|VD-0064|Burton, Ryder|1|2010-11-24 00:00:00|Bandwiesstrasse 4|R??ti|8630|Switzerland
+VDA-00404|VD-0312|Mayo, Octavia|1|2013-07-11 00:00:00|Riedwiesenstrasse 3|Dietlikon|8305|Switzerland
+VDA-00234|VD-0102|Santiago, Emery|1|2006-01-20 00:00:00|chemin des Aulnes 1|Le Locle|2400|Switzerland
+VDA-00024|VD-0273|Mustang Time|1|2013-03-05 00:00:00|avenue de Champel 8C|Gen??ve|1206|Switzerland
+VDA-00278|VD-0154|Haynes, Myra|1|2013-06-17 00:00:00|Gl??rnischstrasse 6|Rapperswil|8640|Switzerland
+VDA-00596|VD-0544|Klein, Wing|1|2015-03-12 00:00:00|Zugerstrasse 2|W??denswil|8820|Switzerland
+VDA-00004|VD-0272|Just Time|1|2013-07-19 00:00:00|Hauptstrasse 49|Kreuzlingen|8280|Switzerland
+VDA-00432|VD-0343|Leonard, Christen|1|2009-02-27 00:00:00|rue de Conthey 7|Sion|1950|Switzerland
+VDA-00772|VD-0587|Nunez, Ivory|1|2012-01-05 00:00:00|Bahnhofstrasse 27|Dubendorf||
+VDA-00395|VD-0300|Parker, Erica|1|2010-10-06 00:00:00|Poststrasse 16|Winterberg|8312|Switzerland
+VDA-00294|VD-0175|Pacheco, Lareina|1|2016-05-06 00:00:00|Hauptstrasse 25|Wollerau|8832|Switzerland
+VDA-00634|VD-0180|Bender, Jordan|2|2014-11-10 00:00:00|Ueberlandstrasse 219|D??bendorf|8600|Switzerland
+VDA-00617|VD-0268|Ayala, Linus|2|2016-11-29 00:00:00|Wangenstrasse 59|D??bendorf|8600|Switzerland
+VDA-00649|VD-0140|Mccray, Stephen|2|2005-09-06 00:00:00|Strehlgasse 7|D??bendorf|8600|Switzerland
+VDA-00037|VD-0449|Oscilloquartz|1|2015-01-30 00:00:00|Zwingliplatz 2|Z?rich|8001|Switzerland
+VDA-00585|VD-0532|Drake, Burton|1|2004-06-16 00:00:00|Wilfriedstrasse 19|Z??rich|8032|Switzerland
+VDA-00399|VD-0306|Hancock, Silas|1|2012-09-18 00:00:00|R??ffelstrasse 32|Z??rich|8045|Switzerland
+VDA-00595|VD-0543|Callahan, Brian|1|2014-02-07 00:00:00|Ziegeleiw??g 3|Rafz|8197|Switzerland
+VDA-00353|VD-0244|Burns, Hilel|1|2013-02-08 00:00:00|Marktgasse 31|B??lach|8180|Switzerland
+VDA-00489|VD-0413|Pollard, Len|1|2013-06-11 00:00:00|rue du Temple-Neuf 11|Neuch??tel|2000|Switzerland
+VDA-00010|VD-0545|Prism Time|1|2013-02-18 00:00:00|rue Alfred Lugrin 2|Orient|1341|Switzerland
+VDA-00436|VD-0347|Sykes, Chancellor|1|2014-04-03 00:00:00|rue de la Combe 6|Ch??zard-St-Martin|2054|Switzerland
+VDA-00181|VD-0032|Lynn, Amery|1|2016-04-04 00:00:00|avenue des Alpes 82|Montreux|1820|Switzerland
+VDA-00083|VD-0564|Cascade Time|3|2012-11-06 00:00:00|Kronenplatz 18/20|Lenzburg|5600|Switzerland
+VDA-00154|VD-0161|Realtime Time|1|2007-11-05 00:00:00|Steinweg 28|Lyss|3250|Switzerland
+VDA-00036|VD-0531|Time  Homepage|1|2006-09-06 00:00:00|Einkaufszentrum Tivoli|Spreitenbach|8957|Switzerland
+VDA-00449|VD-0362|Salas, Rigel|1|2011-08-02 00:00:00|Rue de l'Eglise 7|Engollon||
+VDA-00497|VD-0422|Mcdaniel, Isabella|1|2016-04-08 00:00:00|rue Fritz-Courvoisier 29B|La Chaux-de-Fonds|2300|Switzerland
+VDA-00382|VD-0285|Green, Caldwell|1|2014-09-08 00:00:00|Pestalozzistrasse 9|Z??rich|8032|Switzerland
+VDA-00043|VD-0077|Real Time Medical|1|2009-09-28 00:00:00|route des Avouillons 4|Gland|1196|Switzerland
+VDA-00033|VD-0415|NorthStar Time|3|2013-02-07 00:00:00|avenue d'Ouchy 40|Lausanne|1006|Switzerland
+VDA-00211|VD-0072|Rocha, Honorato|1|2007-01-22 00:00:00|Bettlachstrasse 8|Grenchen|2540|Switzerland
+VDA-00279|VD-0155|Dillon, Bo|1|2016-09-20 00:00:00|Gl??rnischstrasse 7|Rapperswil|8640|Switzerland
+VDA-00235|VD-0103|Alexander, Berk|1|2015-09-04 00:00:00|chemin des Barres 9|Les Breuleux|2345|Switzerland
+VDA-00203|VD-0062|Delaney, Ila|1|2011-01-03 00:00:00|Bahnhofstrasse 62|Z??rich|8001|Switzerland
+VDA-00629|VD-0216|Wilkinson, Rahim|2|2014-10-20 00:00:00|Widenholzstrasse 2|Dietlikon|8305|Switzerland
+VDA-00533|VD-0466|Rasmussen, Robin|1|2010-08-30 00:00:00|Sonnengutstrasse 4|Bremgarten|5620|Switzerland
+VDA-00612|VD-0565|Smith, John|1|2016-01-25 00:00:00|Zwingliplatz 2|Z?rich|8001|Switzerland
+VDA-00270|VD-0145|Morrison, Brian|1|2011-04-11 00:00:00|F??sslistrasse 4|Z??rich|8001|Switzerland
+VDA-00035|VD-0023|Vibrant Time|1|2012-02-13 00:00:00|Zentralstrasse 37|Wohlen|5610|Switzerland
+VDA-00307|VD-0192|Fisher, Damon|1|2012-09-27 00:00:00|Hohlstrasse 30|Z??rich|8004|Switzerland
+VDA-00718|VD-0450|Silva, Ralph|2|2014-07-12 00:00:00|Burstwiesenstrasse 35|Greifensee|8606|Switzerland
+VDA-00457|VD-0371|Richards, Ivy|1|2016-02-03 00:00:00|rue des Chavannes 16|Neuch??tel|2000|Switzerland
+VDA-00692|VD-0542|Mclaughlin, Hyatt|2|2013-03-08 00:00:00|Birchlenstrasse 37|D??bendorf|8600|Switzerland
+VDA-00073|VD-0200|Nationwide Time|1|2008-07-14 00:00:00|boulevard de P??rolles 8|Fribourg|1700|Switzerland
+VDA-00670|VD-0054|Griffith, Wanda|2|2016-10-03 00:00:00|Bahnhofstrasse 5|D??bendorf|8600|Switzerland
+VDA-00276|VD-0151|Bishop, Chancellor|1|2014-01-03 00:00:00|Germaniastrasse 14|Z??rich|8006|Switzerland
+VDA-00247|VD-0117|Fernandez, Gary|1|2016-08-04 00:00:00|Dorfstrasse 4|Br??ttisellen|8306|Switzerland
+VDA-00513|VD-0440|Love, Shelley|1|2013-10-28 00:00:00|Sch??fligrabenstrasse 25|Wallisellen|8304|Switzerland
+VDA-00673|VD-0470|Baldwin, April|2|2016-12-28 00:00:00|Wilstrasse 2|D??bendorf|8600|Switzerland
+VDA-00419|VD-0328|Guzman, Chastity|1|2004-11-12 00:00:00|route des Pralettes 1|Marly|1723|Switzerland
+VDA-00475|VD-0394|Miles, Desirae|1|2016-08-17 00:00:00|rue du Lac 35|Yverdon-les-Bains|1400|Switzerland
+VDA-00334|VD-0222|Mckee, Harrison|1|2012-11-14 00:00:00|Kruggasse 12|Z??rich|8001|Switzerland
+VDA-00095|VD-0235|Hometown Time|1|2003-01-29 00:00:00|rue des Colverts 32|Le Noirmont|2340|Switzerland
+VDA-00702|VD-0315|Mcfadden, Gray|2|2012-05-18 00:00:00|Neugutstrasse 90|D??bendorf|8600|Switzerland
+VDA-00427|VD-0337|Cooley, Neville|1|2014-11-10 00:00:00|rue Centrale 60|Crans-Montana|3963|Switzerland
+VDA-00260|VD-0133|Beach, Leah|1|2009-03-02 00:00:00|Florastrasse 32|Biel/Bienne|2502|Switzerland
+VDA-00575|VD-0517|Ball, Gemma|1|2012-10-08 00:00:00|Weiherhof 14|Volketswil|8604|Switzerland
+VDA-00357|VD-0250|Conrad, Alfonso|1|2009-06-15 00:00:00|Marktgasse 6A|Thun|3600|Switzerland
+VDA-00177|VD-0025|Wright, Lysandra|1|2009-07-02 00:00:00|avenue de la Gare 3|Sion|1950|Switzerland
+VDA-00275|VD-0150|Howard, Caldwell|1|2008-07-30 00:00:00|Gerechtigkeitsgasse 49|Bern|3011|Switzerland
+VDA-00282|VD-0158|Hobbs, Kirk|1|2009-02-04 00:00:00|Grand-Rue 16|Montreux|1820|Switzerland
+VDA-00060|VD-0452|Techmania|1|2011-01-07 00:00:00|Matterstrasse 43|Zermatt|3920|Switzerland
+VDA-00622|VD-0044|Watson, Ariana|2|2016-10-17 00:00:00|Im Zentrum 18|Volketswil|8604|Switzerland
+VDA-00763|VD-0578|Sims, Igor|1|2007-12-11 00:00:00|Industriestrasse 31|Dietlikon|8305|Switzerland
+VDA-00553|VD-0489|Rodriquez, Kibo|1|2014-01-03 00:00:00|Sunnehaldeweg 10|Wetzikon|8620|Switzerland
+VDA-00354|VD-0247|Thornton, Ivan|1|2010-12-30 00:00:00|Marktgasse 41|Winterthur|8400|Switzerland
+VDA-00672|VD-0018|Yang, Lucius|2|2013-10-03 00:00:00|Industriestrasse 29|Volketswil|8604|Switzerland
+VDA-00616|VD-0518|Bullock, Kylan|2|2013-08-04 00:00:00|Wangenstrasse 59|D??bendorf|8600|Switzerland
+VDA-00228|VD-0094|Atkinson, Grace|1|2011-06-28 00:00:00|B??hlstrasse 4|Dietlikon|8305|Switzerland
+VDA-00483|VD-0403|Mcconnell, Kyla|1|2009-04-14 00:00:00|rue du Prado 12|Crans-Montana|3963|Switzerland
+VDA-00479|VD-0399|Hahn, Ezra|1|2012-09-19 00:00:00|rue du L??man 3|Vevey|1800|Switzerland
+VDA-00019|VD-0125|Valent Technologies|2|2016-04-14 00:00:00|Honegg|Ennetb??rgen|6373|Switzerland
+VDA-00375|VD-0275|Stein, Lacota|1|2006-07-21 00:00:00|Oberdorfstrasse 32|Z??rich|8001|Switzerland
+VDA-00665|VD-0226|Anthony, Davis|2|2013-12-26 00:00:00|Hofwiesenstrasse 4B|Volketswil|8604|Switzerland
+VDA-00003|VD-0246|Time  Mafia|1|2010-02-02 00:00:00|Einkaufszentrum Glatt|Wallisellen|8304|Switzerland
+VDA-00224|VD-0089|Levy, Harrison|1|2013-07-29 00:00:00|Bremgartnerstrasse 25|Dietikon|8953|Switzerland
+VDA-00451|VD-0364|Anthony, Roary|1|2014-09-12 00:00:00|rue de Neuch??tel 10|Yverdon-les-Bains|1400|Switzerland
+VDA-00541|VD-0476|Lucas, Jonah|1|2014-02-10 00:00:00|St. Peterhofstatt 10|Z??rich|8001|Switzerland
+VDA-00418|VD-0327|Fernandez, Keegan|1|2011-06-10 00:00:00|route des Biches 10|Villars-sur-Gl??ne|1752|Switzerland
+VDA-00021|VD-0461|Zentime|1|2016-01-21 00:00:00|Kornhausstrasse 3|Bern|3013|Switzerland
+VDA-00430|VD-0340|Curry, Oprah|1|2014-10-28 00:00:00|rue de Ch??tre 28|Del??mont|2800|Switzerland
+VDA-00185|VD-0037|Sweet, Margaret|1|2015-06-26 00:00:00|avenue Jomini 3|Avenches|1580|Switzerland
+VDA-00459|VD-0373|Pickett, Ishmael|1|2005-05-17 00:00:00|rue des Deux-March??s 32|Vevey|1800|Switzerland
+VDA-00310|VD-0195|Oneil, Dane|1|2012-02-17 00:00:00|Illnauerstrasse 12|Effretikon|8307|Switzerland
+VDA-00522|VD-0453|Grant, Freya|1|2012-12-28 00:00:00|Seefeldstrasse 224|Z??rich|8008|Switzerland
+VDA-00586|VD-0533|Padilla, Fuller|1|2013-09-18 00:00:00|Winterthurerstrasse 1|Bassersdorf|8303|Switzerland
+VDA-00572|VD-0512|Jones, Wylie|1|2011-09-15 00:00:00|Vordere Hauptgasse 25|Zofingen|4800|Switzerland
+VDA-00380|VD-0282|Vaughn, Ray|1|2016-04-14 00:00:00|Obergasse 5|Winterthur|8400|Switzerland
+VDA-00386|VD-0289|Stephenson, Elijah|1|2013-03-20 00:00:00|place du March?? 6|La Chaux-de-Fonds|2300|Switzerland
+VDA-00341|VD-0230|Berger, Akeem|1|2013-03-25 00:00:00|le Bochet 1|Vers-chez-Perrin|1551|Switzerland
+VDA-00030|VD-0467|Time  North|1|2011-09-16 00:00:00|via Pretorio 15|Lugano|6900|Switzerland
+VDA-00350|VD-0241|Molina, Hayes|1|2011-11-30 00:00:00|Marktgasse 29|Bern|3011|Switzerland
+VDA-00524|VD-0455|Conway, Philip|1|2011-02-09 00:00:00|Seefeldstrasse 50|Z??rich|8008|Switzerland
+VDA-00755|VD-0570|Tucker, Steel|1|2011-11-09 00:00:00|Zurichstrasse 40|Bruttisellen|8306|Switzerland
+VDA-00285|VD-0163|Young, Adrian|1|2007-11-29 00:00:00|Grand-Rue 56|Montreux|1820|Switzerland
+VDA-00081|VD-0473|Time  Custom|1|2009-05-25 00:00:00|chemin des Tourelles 10|Le Locle|2400|Switzerland
+VDA-00265|VD-0138|Dickson, Emerson|1|2013-03-12 00:00:00|Franklinstrasse 23|Z??rich|8050|Switzerland
+VDA-00721|VD-0188|Delacruz, Yael|2|2009-11-22 00:00:00|Fehraltorferstrasse 17|Agasul|8308|Switzerland
+VDA-00172|VD-0019|Battle, Jordan|1|2008-04-28 00:00:00|av. du G??n??ral-Guisan 15|Vevey|1800|Switzerland
+VDA-00332|VD-0220|Daugherty, Blake|1|2014-10-21 00:00:00|Korporationsweg 9B|Wilen b. Wollerau|8832|Switzerland
+VDA-00156|VD-0152|Tuliptime Tunefest|4|2015-04-29 00:00:00|Hauptgasse 2|Willisau|6130|Switzerland
+VDA-00182|VD-0033|Lynn, Maris|1|2013-07-23 00:00:00|avenue du Casino 39|Montreux|1820|Switzerland
+VDA-00766|VD-0581|Wells, Julie|1|2010-05-25 00:00:00|Industriestrasse 1|Volketswil|8604|Switzerland
+VDA-00654|VD-0562|Carson, Aladdin|2|2016-08-19 00:00:00|Hofwiesenstrasse 2|Volketswil|8604|Switzerland
+VDA-00615|VD-0429|Zimmerman, Cullen|2|2016-11-21 00:00:00|Industriestrasse 29|Dietlikon|8305|Switzerland
+VDA-00739|VD-0151|Bishop, Chancellor|2|2016-07-12 00:00:00|Zentrum Meierwis|Greifensee|8606|Switzerland
+VDA-00065|VD-0379|Popcorn Born|1|2014-08-13 00:00:00|Burghaldenstrasse 33|Lenzburg|5600|Switzerland
+VDA-00750|VD-0001|Blankenship, Violet|1|2010-01-12 00:00:00|Alemannengasse 25|Basel|4058|Switzerland
+VDA-00756|VD-0571|Mcfadden, Stewart|1|2010-08-09 00:00:00|Buelstrasse 40|Volketswil|8604|Switzerland
+VDA-00619|VD-0496|Russell, Madison|2|2015-01-27 00:00:00|Steinligstrasse 55|Bassersdorf|8303|Switzerland
+VDA-00632|VD-0334|White, Laurel|2|2011-02-21 00:00:00|Bahnstrasse 22|Schwerzenbach|8603|Switzerland
+VDA-00746|VD-0328|Guzman, Chastity|2|2007-03-07 00:00:00|Industriestrasse 30A|Wallisellen|8304|Switzerland
+VDA-00374|VD-0274|Carpenter, Randall|1|2012-11-09 00:00:00|Oberdorfstrasse 32|Z??rich|8001|Switzerland
+VDA-00568|VD-0507|Mathews, Murphy|1|2016-12-23 00:00:00|via della Posta 3|Lugano|6900|Switzerland
+VDA-00591|VD-0539|Cantu, Harper|1|2007-09-03 00:00:00|Z??hringerstrasse 41|Z??rich|8001|Switzerland
+VDA-00438|VD-0349|Burnett, Zephania|1|2014-03-07 00:00:00|rue de la Gare 7|Tramelan|2720|Switzerland
+VDA-00446|VD-0358|Randall, Timon|1|2006-08-14 00:00:00|rue de Lausanne 51|Fribourg|1700|Switzerland
+VDA-00344|VD-0234|Atkinson, Quemby|1|2009-12-01 00:00:00|Limmatstrasse 270|Z??rich|8005|Switzerland
+VDA-00620|VD-0207|Mccarty, Lee|2|2012-08-06 00:00:00|Riedenerstrasse 4|Dietlikon|8305|Switzerland
+VDA-00216|VD-0080|Hull, Brendan|1|2010-07-27 00:00:00|Bleicherweg 19|Z??rich|8002|Switzerland
+VDA-00433|VD-0344|Osborn, Michael|1|2013-06-05 00:00:00|rue de Fin-de-Praz 26|St-Aubin-Sauges|2024|Switzerland
+VDA-00647|VD-0451|Hays, Samson|2|2015-11-21 00:00:00|Industriestrasse 1|Volketswil|8604|Switzerland
+VDA-00645|VD-0358|Randall, Timon|2|2009-09-18 00:00:00|Breitenloostrasse 1a|N??rensdorf|8309|Switzerland
+VDA-00696|VD-0362|Salas, Rigel|2|2013-10-31 00:00:00|Obere Kirchstrasse 33|Wallisellen|8304|Switzerland
+VDA-00477|VD-0396|Vang, Ishmael|1|2015-01-28 00:00:00|rue du Lac 40|Clarens|1815|Switzerland
+VDA-00411|VD-0320|Morales, Demetrius|1|2011-11-30 00:00:00|route de Culliairy 17|La Sagne (Ste-Croix)|1450|Switzerland
+VDA-00127|VD-0057|Spacewax|2|2012-07-01 00:00:00|Kantonsstrasse 3|Bubendorf|4416|Switzerland
+VDA-00049|VD-0478|Suburban Time|1|2013-09-02 00:00:00|rue de Combamare 18|Chez-le-Bart|2025|Switzerland
+VDA-00666|VD-0417|Santana, Sawyer|2|2016-09-29 00:00:00|Rossbergstrasse 41|Kemptthal|8310|Switzerland
+VDA-00716|VD-0411|Franco, Gillian|2|2015-06-28 00:00:00|Neue Winterthurerstrasse 99|Wallisellen|8304|Switzerland
+VDA-00723|VD-0360|Payne, Henry|2|2016-12-25 00:00:00|Bahnhofstrasse 26|Wallisellen|8304|Switzerland
+VDA-00594|VD-0542|Mclaughlin, Hyatt|1|2011-08-15 00:00:00|Zentralstrasse 31|Uster|8610|Switzerland
+VDA-00252|VD-0124|Patel, Joel|1|2016-01-04 00:00:00|Effretikonerstrasse 64|Illnau|8308|Switzerland
+VDA-00236|VD-0104|Mullins, Jameson|1|2012-09-19 00:00:00|chemin des Dolines 9|Le Locle|2400|Switzerland
+VDA-00578|VD-0520|Cote, Benedict|1|2011-08-10 00:00:00|Weinbergstrasse 48|Z??rich|8006|Switzerland
+VDA-00297|VD-0178|Downs, Herrod|1|2011-03-23 00:00:00|Hauptstrasse 31|Nidau|2560|Switzerland
+VDA-00109|VD-0152|Tuliptime Tunefest|2|2008-08-06 00:00:00|Bahnhofstrasse 23||2540|Switzerland
+VDA-00186|VD-0038|Gardner, Rafael|1|2010-12-14 00:00:00|avenue L??opold-Robert 15|La Chaux-de-Fonds|2300|Switzerland
+VDA-00126|VD-0299|InTime Learning|3|2007-07-06 00:00:00|Rebmattweg 23|Merlischachen|6402|Switzerland
+VDA-00466|VD-0385|Hendrix, Constance|1|2006-12-22 00:00:00|rue des Scies 32|Baulmes|1446|Switzerland
+VDA-00256|VD-0129|Barlow, Bruce|1|2011-05-18 00:00:00|Espace des Remparts 8|Sion|1950|Switzerland
+VDA-00132|VD-0500|Americas Time|1|2011-03-28 00:00:00|Kolinplatz 3|Zug|6300|Switzerland
+VDA-00191|VD-0044|Watson, Ariana|1|2014-05-15 00:00:00|Bahnhofplatz 9|Z??rich|8001|Switzerland
+VDA-00706|VD-0250|Conrad, Alfonso|2|2010-05-01 00:00:00|Richtiplatz 4|Wallisellen|8304|Switzerland
+VDA-00293|VD-0174|Patel, Zane|1|2014-05-12 00:00:00|Harnlistrasse 14|Illnau|8308|Switzerland
+VDA-00179|VD-0030|Blair, Nash|1|2013-09-25 00:00:00|avenue de la Gare 47|Del??mont|2800|Switzerland
+VDA-00758|VD-0573|Goodman, Colorado|1|2004-11-29 00:00:00|Neue Winterthurerstrasse 7|Dietlikon|8305|Switzerland
+VDA-00744|VD-0431|Navarro, Davis|2|2013-08-08 00:00:00|Wigartenstrasse 9|F??llanden|8117|Switzerland
+VDA-00085|VD-0229|Technology Wizard|1|2012-10-10 00:00:00|Berneggstrasse 2|St. Gallen|9000|Switzerland
+VDA-00373|VD-0271|Gill, Iris|1|2016-10-03 00:00:00|Oberdorfstrasse 3|Z??rich|8001|Switzerland
+VDA-00274|VD-0149|Buckley, Nigel|1|2007-11-06 00:00:00|Gemeindestrasse 11|Z??rich|8032|Switzerland
+VDA-00542|VD-0477|Bush, Brenden|1|2013-10-28 00:00:00|Stadelhoferstrasse 8|Z??rich|8001|Switzerland
+VDA-00492|VD-0417|Santana, Sawyer|1|2015-06-03 00:00:00|rue du Tr??sor 11|Neuch??tel|2000|Switzerland
+VDA-00087|VD-0120|Moving with the Times|1|2012-03-28 00:00:00|Voa Principala 39|Lenzerheide/Lai|7078|Switzerland
+VDA-00548|VD-0484|Buckley, Wylie|1|2015-02-06 00:00:00|Steinentorstrasse 15|Basel|4051|Switzerland
+VDA-00678|VD-0114|Rhodes, Alyssa|2|2010-05-04 00:00:00|Grubenstrasse 9|Kloten|8302|Switzerland
+VDA-00555|VD-0491|Gould, Randall|1|2014-09-23 00:00:00|Talstrasse 15|Wetzikon|8620|Switzerland
+VDA-00509|VD-0436|Pollard, Knox|1|2009-04-29 00:00:00|Sandrain 29|Oberglatt|8154|Switzerland
+VDA-00284|VD-0162|Butler, Vance|1|2014-01-03 00:00:00|Grand-Rue 47|Bulle|1630|Switzerland
+VDA-00762|VD-0577|Cooper, Yardley|1|2007-05-31 00:00:00|Industriestrasse 31|Dietlikon|8305|Switzerland
+VDA-00560|VD-0497|Jefferson, Ferdinand|1|2012-07-11 00:00:00|T??sstalstrasse 3|Winterthur|8400|Switzerland
+VDA-00309|VD-0194|Schwartz, Cody|1|2011-07-27 00:00:00|Hottingerstrasse 44|Z??rich|8032|Switzerland
+VDA-00048|VD-0101|ColorOptic|2|2014-02-14 00:00:00|Hauptstrasse 2|M??rigen|2572|Switzerland
+VDA-00651|VD-0336|York, Ruby|2|2012-02-20 00:00:00|Hofwiesenstrasse 4A|Volketswil|8604|Switzerland
+VDA-00655|VD-0047|Copeland, Camden|2|2013-12-09 00:00:00|Zielackerstrasse 26|Wallisellen|8304|Switzerland
+VDA-00442|VD-0353|Rivas, Karly|1|2012-04-23 00:00:00|rue de la Ronde 28|La Chaux-de-Fonds|2300|Switzerland
+VDA-00088|VD-0100|Neighborhood Time|1|2011-03-21 00:00:00|sur le Pr?? 40|Mettembert|2806|Switzerland
+VDA-00680|VD-0150|Howard, Caldwell|2|2010-04-16 00:00:00|Giessenstrasse 4|D??bendorf|8600|Switzerland
