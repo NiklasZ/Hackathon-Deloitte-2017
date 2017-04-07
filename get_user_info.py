@@ -44,7 +44,7 @@ for e in q2:
         employees[eid] = {}
     employees[eid]['Employee'] = e
 
-q4 = S.query(DB.AuthorisationLevel)
+q4 = S.query(DB.AuthorizationLevel)
 gid2al = {}
 for al in q4:
     gid = al.group_id
@@ -63,10 +63,10 @@ for ug in q3:
     if eid not in employees:
         employees[eid] = {}
     employees[eid]['UserGroups'] = ug
-#    employees[eid]['AuthorisationLevel'] = gid2al[gid]
+    employees[eid]['AuthorisationLevel'] = gid2al[gid]
 
 
 # use it like this
-eid = uid2eid['u8284']
+eid = uid2eid['u8204']
 e = employees[eid]
 print e

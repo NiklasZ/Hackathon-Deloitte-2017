@@ -4,7 +4,9 @@ SELECT DISTINCT action FROM access_log;
 
 #Get the first transaction of a particulat user, solves q1 if we know the user
 
-SELECT transaction_id, amount, transaction_dt
+SELECT transaction_id, amount, transaction_dt, narrative
 FROM transactions
 WHERE approved_by_user_id='u8284'
 ORDER BY transaction_dt;
+
+

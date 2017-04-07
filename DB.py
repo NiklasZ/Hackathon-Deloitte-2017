@@ -66,8 +66,8 @@ class AccountExternal(Base):
                 self.iban, self.status
                 )
 
-class AuthorisationLevel(Base):
-    __tablename__ = 'authorisation_level'
+class AuthorizationLevel(Base):
+    __tablename__ = 'authorization_level'
 
     
     group_id     = Column(UnicodeText, primary_key=True)
@@ -119,15 +119,15 @@ class Calendar(Base):
                 self.CalendarDate, self.Wday
                )
 
-class Departement(Base):
-    __tablename__ = 'departement'
+class Department(Base):
+    __tablename__ = 'department'
 
 
     departement_id   = Column(UnicodeText, primary_key=True)
     departement_desc = Column(UnicodeText)
 
     def __repr__(self):
-        return "Departement %s %s" % (
+        return "Department %s %s" % (
                 self.departement_id, self.departement_desc
                )
 
