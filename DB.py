@@ -183,9 +183,10 @@ class InvoicePurchaseOrder(Base):
     total = Column(UnicodeText)
 
     def __repr__(self):
-        return "InvoicePurchaseOrder %s %s %s %s" % (
+        return "%s,%s,%s,%s,%s,%s,%s,%s,%s" % (
                 self.invoice_id, self.po_id, self.vendor_id,
-                self.total
+                self.invoice_dt, self.invoice_image_path, self.payment_due_by_dt,
+                self.received_dt, self.received_by_user_id, self.total
                 )
 
 
@@ -229,6 +230,13 @@ class Transactions(Base):
     approval_dt = Column(UnicodeText)
     approved_by_user_id = Column(UnicodeText)
 
+    def __repr__(self):
+        return "%s,%s,%s,%s,%s,%s,%s,%s,%s,%s" % (
+        self.transaction_id, self.transaction_ref, self.transaction_dt,self.amount,
+        self.debit_acct,self.credit_acct,self.status,self.narrative,self.approval_dt,
+        self.approved_by_user_id
+        )    
+
 
 class Vendor(Base):
     __tablename__ = 'vendor'
@@ -242,10 +250,6 @@ class Vendor(Base):
     created_by = Column(UnicodeText)
     status_last_updated_on = Column(UnicodeText)
 
-    def __repr__(self):
-    return "InvoiceTransactions %s %s" % (
-            self.invoice_id, self.transaction_id
-            )
 
 class VendorAddress(Base):
     __tablename__ = 'vendor_address'
